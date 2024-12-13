@@ -1,0 +1,130 @@
+id,Rede,Nome,Localizado em,Endereço,Bairro,CEP,Tipo,Latitude,Longitude
+Petshop_10.080.177,Petland,Pinheiros,Rua,"Av Henrique Schaumann, 679 Lj 2",Pinheiros,05413-021,Petshop,-23.560148,-46.681
+Petshop_10.092.771,Petz,Petz Cerro Corá,Rua,"R Cerro Corá, 1950",Vila Romana,05061-300,Petshop,-22.577974,-53.056864
+Petshop_10.092.772,Petz,Petz Lauzane Paulista,Rua,"Av Direitos Humanos, 1436",Lauzane Paulista,02475-001,Petshop,-23.478458,-46.643663
+Petshop_10.092.773,Petz,Petz Nações Unidas,Rua,"Av das Nações Unidas, 20727",Vila Almeida,04795-100,Petshop,-23.779579,-45.358564
+Petshop_10.092.774,Petz,Petz Vila Mariana,Rua,"R Vergueiro, 2604",Vila Mariana,04102-000,Petshop,-23.584605,-46.636542
+Petshop_10.092.775,Petz,Petz Vila Matilde,Rua,"Av Conde de Frontin, 2416",Tatuapé,03501-000,Petshop,-23.532382,-46.534148
+Petshop_10.108.687,Petz,Petz Vicente Rao,Rua,"Av Professor Vicente Rao, 1700",Jardim Petropolis,04636-001,Petshop,-23.638169,-46.677336
+Petshop_10.108.689,Petz,Petz Teodoro Sampaio,Rua,"R Teodoro Sampaio, 1424",Pinheiros,05406-100,Petshop,-23.560738,-46.683375
+Petshop_10.133.469,Petz,Petz Trimais,Shopping Center,"Av Tucuruvi, 220",Tucuruvi,02305-002,Petshop,-23.478655,-46.608934
+Petshop_10.133.470,Petz,Petz Nordestina,Rua,"Av Nordestina, 2740",Cidade Nova São Miguel,08042-117,Petshop,-23.513031,-46.43271
+Petshop_10.156.146,Cobasi,Eldorado,Shopping Center,"Av Rebouças, 3970",Pinheiros,5402-600,Petshop,-23.572933,-46.69623
+Petshop_10.156.152,Cobasi,Conselheiro Rodrigues Alves,Rua,"Av Conselheiro Rodrigues Alves, 341",Vila Mariana,4102-000,Petshop,-23.583645,-46.641432
+Petshop_10.156.153,Cobasi,Tatuapé,Rua,"R Visconde de Itaboraí, 85",Vila Azevedo,3308-050,Petshop,-23.690463,-46.632149
+Petshop_10.156.169,Cobasi,Cobasi Cachoeirinha,Rua,"Av Parada Pinto, 1380",Ila Nova Cachoeirinha,2611-002,Petshop,-23.469751,-46.656883
+Petshop_10.156.170,Cobasi,Cobasi Santana,Rua,"R Voluntários da Pátria, 3310",Santana,2402-200,Petshop,-23.491072,-46.625888
+Petshop_10.156.171,Cobasi,Cobasi Ermano Marchetti,Rua,"R Luiz Gatti, Loja 02, 50",Água Branca,5038-150,Petshop,-22.751938,-47.629119
+Petshop_10.156.172,Cobasi,Cobasi Sumaré,Rua,"Av Sumaré , 78",Perdizes,5016-090,Petshop,-23.544616,-46.676729
+Petshop_10.156.173,Cobasi,Cobasi Carrão,Rua,"R Serra de Botucatu, 1759",Vila Gomes Cardim,3317-001,Petshop,-23.540745,-46.555092
+Petshop_10.156.174,Cobasi,Cobasi Tutoia,Rua,"R Tutóia, 484",Paraíso,4007-002,Petshop,-23.628103,-46.526768
+Petshop_10.156.175,Cobasi,Cobasi Raposo Tavares,Rua,"Rod Raposo Tavares, 6008",Rio Pequeno,5576-000,Petshop,-23.582865,-46.768787
+Petshop_10.156.176,Cobasi,Jabaquara II,Rua,"Av Jabaquara, 370",Mirandópolis,4046-000,Petshop,-23.60723,-46.637923
+Petshop_10.156.177,Cobasi,Portal do Morumbi,Rua,"Av Dr Guilherme Dumont Vilares, 1210",Jardim Londrina,5640-902,Petshop,-23.61448,-46.741329
+Petshop_10.156.178,Cobasi,Jabaquara,Rua,"Av Jabaquara, 2143",Mirandópolis,4045-003,Petshop,-23.623123,-46.63984
+Petshop_10.193.018,Petz,Petz Angélica,Rua,"Av Angélica, 2011",Higienópolis,01227-200,Petshop,-23.550036,-46.659495
+Petshop_10.193.021,Petz,Petz Edgar Facó,Rua,"Av Gen Edgar Facó, 848",Vila Arcadia,02924-400,Petshop,-23.499147,-46.705924
+Petshop_10.193.024,Petz,Petz Gastão Vidigal,Rua,"Av Dr Gastão Vidigal, 1555",Vila Leopoldina,05314-000,Petshop,-23.539148,-46.729635
+Petshop_10.193.026,Petz,Petz Giovanni Gronchi,Rua,"Av Giovanni Gronchi, 3280",Vila Sonia,05651-002,Petshop,-23.609963,-46.727387
+Petshop_10.193.029,Petz,Petz Mooca Plaza Shopping,Rua,"R Cap Pacheco e Chaves, 313",Vila Prudente,03126-000,Petshop,-23.579201,-46.594749
+Petshop_10.251.926,Cobasi,Cobasi Marechal Tito,Rua,"Av Marechal Tito, 2813",São Miguel Paulista,08022-000,Petshop,-23.493545,-46.417188
+Petshop_10.251.938,Cobasi,Cobasi M'boi Mirim,Rua,"Estr do M'boi Mirim, 2420",Jardim Regina,04905-002,Petshop,-23.674894,-46.754661
+Petshop_10.251.947,Cobasi,Cobasi Teotônio Vilela,Rua,"Av Senador Teotônio Vilela, 4488",Vila São José (cidade Dutra),04833-000,Petshop,-23.739188,-46.702142
+Petshop_10.251.960,Petz,Petz Carrefour Tietê,Supermercado,Av Morvan Dias de Figueiredo 3177,Vila Guilherme,02063-902,Petshop,-23.52361,-46.599815
+Petshop_10.251.967,Petz,Petz Itapecerica,Rua,"Estr de Itapecerica, 934",Vila das Belezas,05835-003,Petshop,-23.713692,-46.840196
+Petshop_10.304.536,Cobasi,Cobasi Campo Limpo II,Rua,"Estr do Campo Limpo, 5553",Pirajussara,57870-000,Petshop,-23.61973,-46.758593
+Petshop_10.304.542,Cobasi,Cobasi Corifeu,Rua,"Av Corifeu de Azevedo Marques, 538",Butantã,55820-000,Petshop,-23.570689,-46.720178
+Petshop_10.304.543,Cobasi,Cobasi Carrefour Nações,Supermercado,Av das Nações Unidas 15187,Chácara Santo Antônio,47940-000,Petshop,-23.5247,-46.758439
+Petshop_10.304.544,Cobasi,Cobasi Estrada de Itapecerica,Rua,"Estr de Itapecerica, 2875",Vila Maracanã,58350-005,Petshop,-23.164859,-46.627972
+Petshop_10.304.548,Cobasi,Cobasi George Corbisier,Rua,"Av Engenheiro George Corbisier, 1270",Jabaquara,43450-001,Petshop,-23.647956,-46.646018
+Petshop_10.304.551,Cobasi,Cobasi Jardim Japão,Rua,"Av Jardim Japao, 1458",Jardim Brasil,22210-001,Petshop,-23.652387,-46.533937
+Petshop_10.304.552,Cobasi,Cobasi Avenida Angelica,Rua,"Av Angélica, 430",Santa Cecília,12280-000,Petshop,-23.536488,-46.65471
+Petshop_10.395.417,Cobasi,Cobasi Av. Morumbi,Rua,"Av Morumbi, 2250",Morumbi,5606-200,Petshop,-23.594425,-46.707067
+Petshop_10.395.418,Cobasi,Cobasi Alto de Pinheiros,Rua,"R General Furtado Nascimento, 66",Alto de Pinheiros,5465-070,Petshop,-23.555536,-46.714425
+Petshop_10.395.420,Cobasi,Cobasi Moema,Rua,"Av Ibirapuera, 2414",Moema,4028-002,Petshop,-23.604702,-46.663923
+Petshop_10.395.430,Cobasi,Cobasi Assai Anhanguera,Rua,"R Samuel Klabin, 193",Bela Aliança,5077-903,Petshop,-23.518007,-46.726864
+Petshop_10.395.432,Cobasi,Cobasi Cantareira Norte Shopping,Shopping Center,Av Raimundo Pereira de Magalhães 11001,Jardim Pirituba,2984-035,Petshop,-23.444992,-46.723531
+Petshop_10.395.513,Petz,Petz Aclimação,Rua,"R Muniz de Sousa, 450",Glicério,01534-000,Petshop,-23.567029,-46.626091
+Petshop_10.395.516,Petz,Petz Assaí Penha,Rua,"Av São Miguel, 962",Vila Esperança,03620-000,Petshop,-23.493914,-46.439603
+Petshop_10.395.518,Petz,Petz Avenida Interlagos,Rua,"Av Interlagos, 2000",Jardim Marajoara,04660-002,Petshop,-23.671479,-46.677991
+Petshop_10.395.530,Petz,Petz Pão de Açúcar Jabaquara,Supermercado,Av Engenheiro Armando Arruda Pereira 2022,Cidade Vargas,04308-001,Petshop,-23.633858,-46.579487
+Petshop_10.395.531,Petz,Petz Parada de Taipas,Rua,"Av Raimundo Pereira de Magalhães, 12217",Parada De Taipas,02989-095,Petshop,-23.247837,-45.914708
+Petshop_2.357.552,Petland,Jardins,Rua,R Bela Cintra 1559,Jardins,01415-001,Petshop,-23.559544,-46.664926
+Petshop_2.357.567,Petz,Petz Cidade Jardim,Rua,"Av dos Tajuras, 147",Cidade Jardim,05670-000,Petshop,-23.586033,-46.696177
+Petshop_2.421.375,Petz,Petz Augusta,Rua,"R Augusta, 215",Bela Vista,01305-000,Petshop,-23.550831,-46.648132
+Petshop_2.421.376,Petz,Petz Jaguaré,Rua,"Av Corifeu de Azevedo Marques, 4529",Vila Lageado,05339-003,Petshop,-23.601496,-46.757819
+Petshop_4.700.717,Petz,Petz Ipiranga,Rua,"Av Presidente Tancredo Neves, 600",Ipiranga,04287-010,Petshop,-23.609157,-46.607712
+Petshop_4.700.719,Petz,Petz Santa Cecília,Rua,"Av General Olímpio da Silveira, 68",Santa Cecília,01150-000,Petshop,-23.532375,-46.657265
+Petshop_4.700.723,Petz,Petz Washington Luís,Rua,"Av Washington Luís, 2737",Brooklin,04626-000,Petshop,-23.652502,-46.679889
+Petshop_4.700.727,Petz,Petz Limão,Rua,"Av Otaviano Alves de Lima, 1480",Limão,02901-000,Petshop,-23.513585,-46.668651
+Petshop_4.700.730,Petz,Petz Bandeirantes,Rua,"Av dos Bandeirantes, 2040",Vila Olímpia,04553-902,Petshop,-20.738465,-48.913529
+Petshop_4.700.732,Petz,Petz Butantã,Rua,"Av Professor Francisco Morato, 1796",Butantã,05512-200,Petshop,-23.583476,-46.71651
+Petshop_4.700.737,Petz,Petz Anália Franco,Rua,"Av Regente Feijó, 677",Vila Regente Feijó,03342-000,Petshop,-22.216864,-51.311362
+Petshop_4.700.777,Cobasi,Pet Fácil Washington Luis,Rua,Av Washington Luis 4949,Santo Amaro,04627-002,Petshop,-23.635252,-46.669375
+Petshop_4.700.778,Cobasi,Pet Fácil Cerro Corá,Rua,R Cerro Corá 2222,Vila Romana,05061-400,Petshop,-22.577974,-53.056864
+Petshop_4.700.780,Cobasi,Pet Fácil Sabará,Supermercado,R Moacir Simões da Rocha 105,Jardim Itapeva,04674-150,Petshop,-23.665551,-46.689719
+Petshop_4.700.782,Petland,Higienópolis,Rua,Pça Vila Boim 20,Higienópolis,01241-010,Petshop,-20.834597,-49.392217
+Petshop_4.700.783,Petland,Moema Índios,Rua,Al dos Nhambiquaras 817,Moema,04090-011,Petshop,-23.606525,-46.65862
+Petshop_4.700.784,Petland,Moema - Pássaros,Rua,Av Pavão 602,Moema,04516-012,Petshop,-23.605395,-46.67001
+Petshop_4.700.788,Petz,Petz Marginal Tietê 24h,Rua,"Av Presidente Castelo Branco, 1795",Pari,03035-050,Petshop,-23.523662,-46.61304
+Petshop_4.700.795,Petz,Petz Aricanduva,Rua,"Av Rio das Pedras, 2207",Jardim Aricanduva,03453-100,Petshop,-23.571618,-46.505423
+Petshop_4.722.679,Petland,Itaim Bibi,Rua,R Pedroso Alvarenga 514,Itaim Bibi,04531-000,Petshop,-23.580888,-46.675548
+Petshop_4.768.068,Petz,Petz Manuel Gaya,Rua,"R Manuel Gaya, 2000",Vila Mazzei,02313-000,Petshop,-23.779579,-45.358564
+Petshop_4.768.069,Petz,Petz Mooca,Rua,"Av Paes de Barros, 1654",Mooca,03114-001,Petshop,-23.567386,-46.592042
+Petshop_4.768.070,Petz,Petz Morumbi,Rua,"R Aureliano Guimarães, 201",Morumbi,05727-160,Petshop,-23.628167,-46.73734
+Petshop_4.768.071,Petland,Perdizes,Rua,R Apinajés 550,Perdizes,05017-000,Petshop,-23.535999,-46.679324
+Petshop_4.840.167,Petz,Petz Alto da Boa Vista,Rua,"Av Adolfo Pinheiro, 1600",Santo Amaro,04734-004,Petshop,-23.640077,-46.696945
+Petshop_4.840.168,Petz,Petz Carrefour Imigrantes,Supermercado,"R Ribeiro Lacerda, 940",Bosque da Saúde,04147-020,Petshop,-23.618123,-46.626866
+Petshop_4.840.172,Petland,Aclimação,Rua,Av da Aclimação 226,Aclimação,01531-000,Petshop,-23.56894,-46.633197
+Petshop_4.862.097,Petland,Mooca,Rua,Av Paes de Barros 342,Mooca,03114-000,Petshop,-23.558603,-46.600575
+Petshop_4.862.098,Petland,Santa Teresinha,Rua,Al Afonso Schmidt 118,Santa Teresinha,02450-000,Petshop,-23.946761,-46.378026
+Petshop_4.862.099,Petland,Vila Clementino,Rua,R Luís Góis 1395,Mirandópolis,04043-350,Petshop,-23.604175,-46.641253
+Petshop_5.388.189,Petz,Petz Center Norte,Shopping Center,"Tv Casalbuono, 120",Vila Guilherme,02029-010,Petshop,-23.516285,-46.618037
+Petshop_5.388.190,Petz,Petz Itaim,Rua,"R Bandeira Paulista, 982",Itaim Bibi,04532-003,Petshop,-23.587993,-46.674844
+Petshop_5.388.191,Petz,Petz Jacu Pêssego,Rua,"Av Jacu Pêssego, 4710",Itaquera,08215-115,Petshop,-23.55091,-46.447066
+Petshop_5.388.192,Petz,Petz Pompeia,Rua,"Av Francisco Matarazzo, 2000",Água Branca,05001-200,Petshop,-23.633018,-46.515757
+Petshop_5.388.218,Petland,Tatuapé - Azevedo Soares,Rua,R Azevedo Soares 2578,Tatuapé - Azevedo Soares,03322-002,Petshop,-23.330197,-46.722435
+Petshop_5.915.168,Petland,100% Pet Anália Franco,Rua,R Eleonora Cintra 348,Anália Franco,03337-000,Petshop,-23.555442,-46.561568
+Petshop_5.915.174,Petz,Petz Anhaia Mello,Rua,"Av Prof Luiz Ignacio Anhaia Mello, 5657",Vila Graciosa,03295-000,Petshop,-23.590936,-46.542786
+Petshop_5.915.176,Petz,Petz Pacaembu,Rua,"Pça Charles Miller, 117",Pacaembu,01234-010,Petshop,-23.543821,-46.664909
+Petshop_6.501.879,Petland,Petland Águia de Haia,Rua,Av. Águia de Haia 208,Petland Águia de Haia,03694-000,Petshop,-23.539381,-46.482371
+Petshop_6.501.889,Petland,Petland Pedro Doll - Santana,Rua,R. Pedro Doll 259,Santana,02404-000,Petshop,-23.491823,-46.62859
+Petshop_6.501.895,Petz,Petz Marechal Tito,Rua,"Av Marechal Tito, 5699",Itaim Paulista,08115-100,Petshop,-23.495144,-46.391593
+Petshop_6.501.898,Petz,Petz Radial Leste,Rua,"Av Alcântara Machado, 3300",bras,03102-007,Petshop,-23.545048,-46.5939
+Petshop_6.501.900,Petz,Petz Ricardo Jafet,Rua,"Av Dr Ricardo Jafet, 1750",Vila Mariana,04260-000,Petshop,-23.59441,-46.622038
+Petshop_6.501.904,Petz,Petz Congonhas,Rua,"Av Moreira Guimarães, 631",Indianópolis,04074-030,Petshop,-23.603846,-46.651152
+Petshop_7.057.509,Petland,Petland Vila Santa Clara,Rua,Av. Sapopemba 2824,Santa Clara,03345-000,Petshop,-22.796107,-45.222032
+Petshop_7.057.510,Petland,Petland Vila Mariana Conselheiro,Rua,Av. Cons. Rodrigues Alves 635,Vila Mariana,04014-011,Petshop,-23.584937,-46.643875
+Petshop_7.057.516,Petz,Petz Taboão da Serra,Rua,"R do Tesouro, 662",Taboão da Serra,06754-190,Petshop,-23.608496,-46.758055
+Petshop_7.057.518,Petz,Petz Teotônio Vilela,Rua,"Av Senador Teotônio Vilela, 4482",Vila Sao Jose,04864-001,Petshop,-23.633551,-46.577273
+Petshop_7.057.519,Petz,Petz São Miguel,Rua,"Av São Miguel, 7988",Vila Norma,08070-001,Petshop,-23.552139,-46.647198
+Petshop_7.336.042,Petland,Petland Padre Antônio,Rua,Av. Pe. Antonio José dos Santos 1349,Cidade Monções,04563-013,Petshop,-23.60783,-46.68999
+Petshop_7.336.047,Cobasi,Cobasi Shopping Aricanduva,Shopping Center,Av. Aricanduva 5555,Parque Savoy,03527-900,Petshop,-24.169167,-46.77286
+Petshop_8.089.881,Petz,Petz Carrefour Anchieta,Supermercado,"Av Marginal Direita Anchieta, 3398",Jardim Maria Estela,04246-900,Petshop,-23.631166,-46.598839
+Petshop_8.089.900,Petland,Petland Vila Andrade,Rua,R Nelson Gama de Oliveira 918,Vila Andrade,05.734-150,Petshop,-23.6289,-46.740051
+Petshop_4.700.750,Cobasi,Teodoro Sampaio,Supermercado,Rua Doutor Nestor Sampaio Penteado, Americanópolis,4409060,Petshop,-23.677477,-46.651845
+Petshop_4.700.752,Cobasi,Rua Augusta,Rua,Rua Adelaide Augusta Câmara, Americanópolis,4335100,Petshop,-23.66559,-46.638715
+Petshop_4.700.754,Cobasi,Butantã,Supermercado,Rua Francisco Enes, Balneário Mar Paulista,4464020,Petshop,46.100567,5.128659
+Petshop_4.700.755,Cobasi,Brooklin,Rua,Rua Ministro Washington de Oliveira, Brasilândia,2845060,Petshop,-23.467693,-46.693282
+Petshop_4.700.757,Cobasi,Imigrantes,Rua,Rua Muniz de Sousa, Aclimação,1534000,Petshop,-23.562773,-46.623873
+Petshop_4.700.757,Cobasi,Imigrantes,Rua,Rua Muniz de Sousa, Aclimação,1534001,Petshop,-23.562773,-46.623873
+Petshop_4.700.758,Cobasi,Interlar Interlagos,Shopping Center,Avenida Interlagos 1857 Piso Inferior, Jardim Umuarama,4661971,Petshop,-23.669926,-46.677695
+Petshop_4.700.759,Cobasi,Morumbi,Rua,Rua Dom Giovanni, Jardim São Bernardo,4844570,Petshop,-23.552139,-46.647198
+Petshop_4.700.761,Cobasi,Villa Lobos,Rua,Rua Manoel Velasco, Vila Hamburguesa,5319010,Petshop,-23.536674,-46.731924
+Petshop_4.700.762,Cobasi,Marginal Pinheiros,Rua,Rua das Pavanas, Americanópolis,4338080,Petshop,-23.669053,-46.648162
+Petshop_4.700.773,Cobasi,Marginal Tietê,Rua,Rua Maria Prestes Maia, Vila Guilherme,2047000,Petshop,-23.516322,-46.621116
+Petshop_4.840.160,Cobasi,Atlântica,Rua,"Rua Atlântica, 516", Jardim América,1440902,Petshop,-23.652387,-46.533937
+Petshop_4.862.116,Cobasi,Ricardo Jafet,Rua,Rua Ricardo, Balneário Dom Carlos,4956060,Petshop,-23.552139,-46.647198
+Petshop_4.862.116,Cobasi,Ricardo Jafet,Rua,Rua Ricardo, Vila Dom Pedro II,2246020,Petshop,-23.552139,-46.647198
+Petshop_4.862.117,Cobasi,Braz Leme,Rua,"Avenida Brigadeiro Luís Antônio, 278", Bela Vista,1318901,Petshop,-23.553274,-46.638176
+Petshop_5.388.193,Cobasi,Sena Madureira,Rua,Travessa R, Butantã,5508170,Petshop,-23.559524,-46.736244
+Petshop_5.388.194,Cobasi,Pet Fácil Ricardo Jafet,Rua,Rua Doutor Félix, Aclimação,1533030,Petshop,-23.568967,-46.637908
+Petshop_5.388.195,Cobasi,Pet Fácil Interlagos,Supermercado,Rua Dona Ana Pimentel, Água Branca,5002040,Petshop,-22.751938,-47.629119
+Petshop_5.388.197,Cobasi,Rebouças,Rua,Rua Doutor Rubens Rebouças de Carvalho, Alto de Pinheiros,5467080,Petshop,-23.492285,-46.799507
+Petshop_5.388.202,Cobasi,Pompéia,Rua,Rua Doutor Carlos Norberto de Souza Aranha, Alto de Pinheiros,5450010,Petshop,-23.549216,-46.707281
+Petshop_5.388.202,Cobasi,Pompéia,Rua,Rua Doutor Carlos Norberto de Souza Aranha, Alto de Pinheiros,5450011,Petshop,-23.549216,-46.707281
+Petshop_5.915.147,Cobasi,Extra Tietê,Supermercado,"Avenida Condessa Elisabeth de Robiano, 5500", Jardim América da Penha,3704900,Petshop,-23.522182,-46.555789
+Petshop_5.915.166,Petland,Shopping Villa Lobos,Shopping Center,"Avenida das Nações Unidas, 4777", Jardim Universidade Pinheiros,5477902,Petshop,-23.577956,-46.694608
+Petshop_5.915.166,Petland,Shopping Villa Lobos,Shopping Center,"Avenida das Nações Unidas, 4777", Jardim Universidade Pinheiros,5477903,Petshop,-23.577956,-46.694608
+Petshop_6.501.876,Cobasi,Cobasi Campo Limpo,Rua,Rua Pais de Andrade, Aclimação,1530000,Petshop,-23.569342,-46.63093
+Petshop_7.336.052,Cobasi,Cobasi Radial Leste Mooca,Rua,Praça Marechal Carlos Machado Bittencourt, Bela Aliança,5036035,Petshop,-23.499974,-46.554138

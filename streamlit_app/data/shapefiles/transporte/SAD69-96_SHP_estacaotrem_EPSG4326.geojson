@@ -1,0 +1,1548 @@
+{
+  "type": "FeatureCollection",
+  "name": "SAD69-96_SHP_estacaotrem",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GUARULHOS CECAP",
+        "etr_linha": "JADE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4932412959916,
+          -23.44695335371459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ITAPEVI",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.93523338040629,
+          -23.5456486961936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JURUBATUBA",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70167346948966,
+          -23.676947794227598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "OSASCO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77542936913488,
+          -23.527259884634727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "TATUAPÉ",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57600407460225,
+          -23.539739503231328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JARDIM HELENA - VILA MARA",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42048088979055,
+          -23.49221571644662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JARDIM ROMANO",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38494020226318,
+          -23.484334026596674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ÁGUA BRANCA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68859113350994,
+          -23.520947578472754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ANTONIO GIANETTI NETO",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38321865477154,
+          -23.553860601047063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ANTÔNIO JOÃO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.85844678252598,
+          -23.516343972495996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ARACARÉ",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.33863406242734,
+          -23.499250720373027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BALTAZAR FIDELIS",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72316613454574,
+          -23.309404897384766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PALMEIRAS - BARRA FUNDA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66706237743752,
+          -23.525096229638145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BARUERI",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.874716359790405,
+          -23.512070796149334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BOTUJURU",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76728132560252,
+          -23.2353401774312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BRÁS CUBAS",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.225080448257,
+          -23.535811442978776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CAIEIRAS",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.751181820988585,
+          -23.365789366736166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CAMPO LIMPO PAULISTA",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78483786882505,
+          -23.206202702767584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CAPUAVA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48965659673233,
+          -23.657860423517093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CARAPICUÍBA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.83496240781676,
+          -23.518049139564248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CEASA",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74215645770385,
+          -23.536931449238867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CIDADE UNIVERSITÁRIA",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.711323116058985,
+          -23.557154749970135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "COMENDADOR ERMELINO",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48195726546622,
+          -23.48465384263602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "COMANDANTE SAMPAIO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7954145392381,
+          -23.52521796052693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "DOMINGOS DE MORAIS",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72103057700495,
+          -23.518441852819198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ENGENHEIRO GOULART",
+        "etr_linha": "JADE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51964981947382,
+          -23.497612966812678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ENGENHEIRO MANOEL FEIO",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.367929469426755,
+          -23.47887720226226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ENGENHEIRO CARDOSO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.928123266092356,
+          -23.53474612898949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ESTUDANTES",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1844136362957,
+          -23.5151651123525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "FERRAZ DE VASCONCELOS",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.367818252483985,
+          -23.54026172317201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "FRANCISCO MORATO",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.742090935849504,
+          -23.281198283613755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "FRANCO DA ROCHA",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72584050410826,
+          -23.329150348581496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GUAPITUBA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44839629244375,
+          -23.69154182095186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "AEROPORTO GUARULHOS",
+        "etr_linha": "JADE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.493361178627794,
+          -23.43256898306739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PARADA AMADOR BUENO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98329931331094,
+          -23.53002126730191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BERRINI",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.696521834449584,
+          -23.60478937876183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "AUTÓDROMO",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68799258118805,
+          -23.706068353223774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CALMON VIANA",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.331937939918134,
+          -23.52519382212843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PINHEIROS",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702590326234855,
+          -23.5659796334196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GENERAL MIGUEL COSTA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81524057218177,
+          -23.522935742690933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JUNDIAÍ",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.87182949886016,
+          -23.194688913556135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PRIMAVERA - INTERLAGOS",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.691304315829626,
+          -23.722223574885536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GRAJAÚ",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.696560539720885,
+          -23.735960012498794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PREFEITO CELSO DANIEL - SANTO ANDRÉ",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52784167000271,
+          -23.65159115042094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "HEBRAICA - REBOUÇAS",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.698338394358544,
+          -23.57312379374432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CIDADE JARDIM",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69070868578339,
+          -23.585035530324898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "VILA OLÍMPIA",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.692400557079736,
+          -23.59296579626461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "MORUMBI",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70136784427767,
+          -23.621356885658447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GRANJA JULIETA",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71183391995088,
+          -23.62742787693057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SOCORRO",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71045419514078,
+          -23.66298426295564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "CORINTHIANS - ITAQUERA",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47069170052919,
+          -23.541571771409895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "DOM BOSCO",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44767733289761,
+          -23.541309669293252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JOSÉ BONIFÁCIO",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43105507314372,
+          -23.538571977706212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "GUAIANAZES",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.415160178806275,
+          -23.54182974031687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "USP LESTE",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.500258574937305,
+          -23.484991489632943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "IMPERATRIZ LEOPOLDINA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73713823877939,
+          -23.523266379679058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "IPIRANGA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59619760022178,
+          -23.582006206292135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ITAIM PAULISTA",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40154573664087,
+          -23.493365255608243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ITAQUAQUECETUBA",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.34743226698371,
+          -23.485647520185747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JANDIRA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.901923888413144,
+          -23.527219308682387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JARAGUÁ",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7379626689139,
+          -23.454962331703758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JARDIM BELVAL",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.88882543614545,
+          -23.51350544079007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JARDIM SILVEIRA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.89314122894774,
+          -23.523362032184888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JÚLIO PRESTES",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.640530590370055,
+          -23.53210903934281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PRESIDENTE ALTINO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7613186813545,
+          -23.530736776142827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "QUITAÚNA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80631077094573,
+          -23.52233528436868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "RIBEIRÃO PIRES",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.41408927951338,
+          -23.71333772579248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "RIO GRANDE DA SERRA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39114510856088,
+          -23.743014561423678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SAGRADO CORAÇÃO",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.916675316307,
+          -23.528656257409807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SANTA TEREZINHA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84749449158498,
+          -23.516091248873334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SÃO CAETANO",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56960501834563,
+          -23.609356242411664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SÃO MIGUEL PAULISTA",
+        "etr_linha": "SAFIRA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44327151441934,
+          -23.49004166082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SUZANO",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.307583379451756,
+          -23.533486166079978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "TAMANDUATEÍ",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58896319081713,
+          -23.59226529033518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "UTINGA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54371940939194,
+          -23.625766121071358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "VÁRZEA PAULISTA",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82863666288362,
+          -23.2085015036333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "VILA CLARICE",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74370988517381,
+          -23.469415567899066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "BRÁS",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61642381072478,
+          -23.54353334148203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "VILLA-LOBOS - JAGUARÉ",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73236261346513,
+          -23.545532257717994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "VILA AURORA",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74691693814374,
+          -23.436965721028514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "ESTAÇÃO SANTA RITA",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.947060682959005,
+          -23.544487511365105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JUNDIAPEBA",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2576802345487,
+          -23.542309736976147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "LAPA (LINHA 7)",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70320481350168,
+          -23.51724642916021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "LAPA (LINHA 8)",
+        "etr_linha": "DIAMANTE",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69855096482178,
+          -23.519676011879415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "SANTO AMARO (LINHA 9)",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71872933167233,
+          -23.65572000749051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "LUZ",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63466183146327,
+          -23.534472818325895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "MAUÁ",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46108770709477,
+          -23.667777130553876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "MOGI DAS CRUZES",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1975292330467,
+          -23.52128336710265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "MÓOCA",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60789907321248,
+          -23.5575782062389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PERUS",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.753299073030014,
+          -23.40428683820765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PIQUERI",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.714412369280026,
+          -23.502405101289778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PIRITUBA",
+        "etr_linha": "RUBI",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7255750472515,
+          -23.488032588003247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "POÁ",
+        "etr_linha": "CORAL",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.343179369381645,
+          -23.524925954308372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "PREFEITO SALADINO",
+        "etr_linha": "TURQUESA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "CPTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5364859676879,
+          -23.63732342819256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "JOÃO DIAS",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72322748780815,
+          -23.639590208218202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etr_nome": "MENDES-VILA NATAL",
+        "etr_linha": "ESMERALDA",
+        "etr_situac": "OPERANDO",
+        "etr_empres": "VIAMOBILIDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70879660233466,
+          -23.753814812446546
+        ]
+      }
+    }
+  ]
+}

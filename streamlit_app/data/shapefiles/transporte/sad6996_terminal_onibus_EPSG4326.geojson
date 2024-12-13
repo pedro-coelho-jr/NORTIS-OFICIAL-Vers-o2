@@ -1,0 +1,556 @@
+{
+  "type": "FeatureCollection",
+  "name": "sad6996_terminal_onibus",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 3,
+        "nm_termina": "Terminal Rodoviario Intermodal Barra Funda",
+        "nm_tipo_te": "RODOVIARIO",
+        "tx_enderec": "R. Auro Soares De Moura Andrade, 664, Barra Funda",
+        "cd_tipo_te": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6677262097655,
+          -23.525586079139135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 4,
+        "nm_termina": "Term. Amaral Gurgel",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Ac A Rua Ana Cintra",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64769146249441,
+          -23.53893024769481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 5,
+        "nm_termina": "Term. Aricanduva",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Aricanduva",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55392303039586,
+          -23.527913024310248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 6,
+        "nm_termina": "Term. Bandeira",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Nove de Julho",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63905613636004,
+          -23.549176382225692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 7,
+        "nm_termina": "Term. Capelinha",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Est de Itapecerica",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.761586544730065,
+          -23.65439392558445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 9,
+        "nm_termina": "Term. Casa Verde",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Eng. Caetano Alvares",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.662051027708486,
+          -23.495824665706387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 10,
+        "nm_termina": "Term. Cid. Tiradentes",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Metalurgicos",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40777861415008,
+          -23.5828546646337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 12,
+        "nm_termina": "Term. Guarapiranga",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Est do M'Boi Mirim",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73448553677044,
+          -23.66829409801565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 16,
+        "nm_termina": "Term. Lapa",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "R Guaicurus",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.699784391454486,
+          -23.519992026093462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 17,
+        "nm_termina": "Term. Largo do Campo Limpo",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Est do Campo Limpo",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.771836941234916,
+          -23.631290613610837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 18,
+        "nm_termina": "Term. Parelheiros",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Est da Colonia",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72671411148653,
+          -23.827746306467745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 19,
+        "nm_termina": "Term. Parque D. Pedro II",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av do Estado",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62996680571592,
+          -23.545756328245563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 20,
+        "nm_termina": "Term. Penha",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Gabriela Mistral",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54657876963553,
+          -23.518291886290505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 21,
+        "nm_termina": "Term. Pinheiros",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "R Capri",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.701298407045364,
+          -23.56578165765025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 22,
+        "nm_termina": "Term. Pirituba",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Vd Raimundo Pereira de Magalhaes",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72596538202492,
+          -23.485843576031655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 23,
+        "nm_termina": "Term. Princesa Isabel",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Rio Branco",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.644182338149356,
+          -23.53389217570776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 25,
+        "nm_termina": "Term. Santo Amaro",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "R Pe. Jose Maria",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.712017723696206,
+          -23.65389788218872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 27,
+        "nm_termina": "Term. Sapopemba",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Sapopemba",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50016497739013,
+          -23.613773165194424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 28,
+        "nm_termina": "Term. Varginha",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Paulo Guilguer Reimberg",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71577676200598,
+          -23.767675462457095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 29,
+        "nm_termina": "Term. Mercado",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av do Estado",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62926677941789,
+          -23.546426336938623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 30,
+        "nm_termina": "Term. Vila Nova Cachoeirinha",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Inajar de Souza",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66878829405005,
+          -23.47412137268075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 31,
+        "nm_termina": "Term. Vila Prudente",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Prf. Luiz Ignacio Anhaia Mello",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.584741111121446,
+          -23.583582814807052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 32,
+        "nm_termina": "Term. A. E. Carvalho",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Aguia de Haia",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47537615760897,
+          -23.51709181380164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 1,
+        "nm_termina": "Terminal Rodoviario do Jabaquara",
+        "nm_tipo_te": "RODOVIARIO",
+        "tx_enderec": "R. dos Jequitibas, Jabaquara. (Est. Jabaquara do metro)",
+        "cd_tipo_te": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64080811400832,
+          -23.64626172309481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 2,
+        "nm_termina": "Terminal Rodoviario do Tiete",
+        "nm_tipo_te": "RODOVIARIO",
+        "tx_enderec": "Av. Cruzeiro do Sul, 1800, Santana (Est. Tiete do metro)",
+        "cd_tipo_te": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62456263480597,
+          -23.51500690107053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 8,
+        "nm_termina": "Term. Carrao",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Rio das Pedras",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.522045832596255,
+          -23.558012413683333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 11,
+        "nm_termina": "Term. Grajau",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "R Giovanni Bononcini",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69573405367734,
+          -23.73515099579352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 13,
+        "nm_termina": "Term. Jardim Angela",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Est do M'Boi Mirim",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77336294690309,
+          -23.68997842681472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 14,
+        "nm_termina": "Term. Jardim Britania",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Pierre Renoir",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78670265777637,
+          -23.430617862397497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 15,
+        "nm_termina": "Term. Joao Dias",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Av Joao Dias",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73334251630105,
+          -23.643531754618746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 24,
+        "nm_termina": "Term. Sacoma",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "Pc Altemar Dutra",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60238074179261,
+          -23.60249308921308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cd_identif": 26,
+        "nm_termina": "Term. Sao Miguel",
+        "nm_tipo_te": "URBANO",
+        "tx_enderec": "R Idioma Esperanto",
+        "cd_tipo_te": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.434694689188284,
+          -23.491177425271538
+        ]
+      }
+    }
+  ]
+}

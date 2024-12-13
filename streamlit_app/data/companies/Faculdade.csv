@@ -1,0 +1,299 @@
+id,Rede,Nome,Nome.1,Localizado em,Endereço,Bairro,CEP,Tipo,Latitude,Longitude
+Faculdade_10.098.019,Privada,Faculdade de Educação Paulistana,Unidade Sede,Rua,"R Tito, 1175",Vila Ipojuca,"[4877190, 2323180, 2162100, 5205130, 5271100, 8022310, 8062270, 3168080, 3803030, 4256000, 2618100, 4285130, 4361040, 5051000, 5051001, 5051900]",Faculdade,-23.779579,-45.358564
+Faculdade_10.098.020,Privada,Faculdade Armando Alvares Penteado,Unidade Sede,Rua,"Rua Alagoas, 903",Pacaembu,[1242902],Faculdade,-21.566348,-51.252704
+Faculdade_10.098.021,Privada,Faculdade de Tecnologia Finaci,Unidade Brigadeiro,Rua,"Av Brigadeiro Luís Antônio, 2867",Paraíso,"[1317000, 1317001, 1317002, 1317901, 1317902, 1317903, 1317904, 1317905, 1317906, 1317907, 1317909, 1317910, 1317911, 1318000, 1318001, 1318002, 1318900, 1318901, 1318902, 1318903, 1318904, 1318905, 1318906, 1318907, 1318908, 1318909, 1318910, 1318912, 1318970, 1318999, 1401000, 1401001, 1401002, 1401900, 1401901, 1401902, 1401903, 1401904, 1401970, 1401971, 1401999, 1402000, 1402001, 1402002, 1402900, 1402901, 1402971]",Faculdade,-23.571771,-46.652796
+Faculdade_10.098.022,Privada,Universidade Cruzeiro do Sul,Polo Sp_liberdade,Rua,"R Galvão Bueno, 868",Liberdade/São Joaquim,"[1506000, 1506900]",Faculdade,-23.563023,-46.635239
+Faculdade_10.098.023,Privada,Universidade Cruzeiro do Sul,Polo Sp_sao Miguel Paulista (sede),Rua,"Av Doutor Ussiel Cirilo, 225",Vila Jacuí,[8060070],Faculdade,-23.499537,-46.452693
+Faculdade_10.198.429,Privada,Centro Universitário das Faculdades Metropolitanas Unidas - Fmu,Fmu - Liberdade - Casa Metropolitana,Rua,Av Liberdade 749,,01503-001,Faculdade,-22.424873,-46.826882
+Faculdade_10.198.464,Privada,Centro Universitário das Faculdades Metropolitanas Unidas - Fmu,Fmu - Ponte Estaiada / Hovet,Rua,R Ministro Nelson Hungria 541,Real Parque,05690-050,Faculdade,-23.57005,-46.825742
+Faculdade_10.198.475,Privada,Faculdade Paulista de Ciências da Saúde - Fpcs,Faculdade Paulisra de Ciências da Saúde,Rua,Av Brigadeiro Luís Antônio 3751,Parque Ibirapuera,01401-001,Faculdade,-23.57736,-46.658947
+Faculdade_10.198.478,Privada,Faculdade de Educação em Ciências da Saúde - Fecs,Campus Sede,Rua,Av Paulista 500,Bela Vista,01310-000,Faculdade,-23.567793,-46.648055
+Faculdade_10.198.498,Privada,Faculdades Integradas Rio Branco - Frb,Campus - São Paulo - Vila Guilherme,Rua,R Maria Cândida 1813,Vila Isolina Mazzei,02071-013,Faculdade,-23.507701,-46.598435
+Faculdade_10.198.500,Privada,Universidade Brasil - Ub,Campus São Paulo,Rua,R Ibipetuba 130,Alto Da Mooca,03127-180,Faculdade,-23.559821,-46.597112
+Faculdade_10.198.505,Privada,Faculdade Ana Carolina Puga - Fapuga,Campus Principal,Rua,R Padre Estevão Pernet 398/402,Tatuapé,03315-000,Faculdade,-23.541976,-46.567235
+Faculdade_10.198.515,Privada,Faculdade Interativa de São Paulo - Faisp,Faculdade Interativa de São Paulo - Faisp (nova Sede),Rua,R Heloísa Penteado 327,Vila Esperança,03649-010,Faculdade,-23.524116,-46.521987
+Faculdade_10.198.519,Privada,Faculdade Van Gogh - Fvg,Fvg,Rua,R Bento Quirino 467,Vila Matilde,03534-010,Faculdade,-23.544365,-46.509567
+Faculdade_10.198.520,Privada,Centro Universitário Carlos Drummond de Andrade - Unidrummond,Arena Corinthians,Rua,Av Miguel Ignácio Curi 111,Itaquera,08295-005,Faculdade,-23.545324,-46.475118
+Faculdade_10.257.767,Privada,Fiam-Faam - Centro Universitário,Fiam-Faam - Liberdade,Rua,Rua Taguá 150 Fiam-Faam - Liberdade,Liberdade/São Joaquim,01508-010,Faculdade,-23.566079,-46.632382
+Faculdade_10.257.820,Privada,Faculdade Paschoal Dantas,Unidade Sede,Rua,Avenida Afonso De Sampaio E Sousa 495,Parque Do Carmo,08270-000,Faculdade,-23.566615,-46.4674
+Faculdade_10.257.869,Privada,Faculdade Méliès,Sede,Rua,Avenida Ibirapuera 2657 Polo Sede,Moema,04029-200,Faculdade,-23.596275,-46.66372
+Faculdade_10.257.877,Privada,"Instituto Brasileiro De Ensino, Desenvolvimento E Pesquisa De São Paulo",Itapeva,Rua,"Rua Itapeva 538 Térreo, 1O, 2O E 3O Andar",Masp,01332-000,Faculdade,-23.519726,-46.754322
+Faculdade_10.257.884,Privada,Faculdade De Ensino Superior Paschoal Dantas,Faculdade De Ensino Superior Paschoal Dantas,Rua,Avenida Presidente Kennedy 4285 Central,Mooca,08041-000,Faculdade,-23.559821,-46.597112
+Faculdade_10.257.923,Privada,Faculdade Integração,Campus Principal,Rua,Rua Manuel Guedes 504,Chácara Itaim,0453-607,Faculdade,-23.58495,-46.679159
+Faculdade_10.257.976,Privada,Faculdade Anclivepa De Gestão E Humanologia,Faculdade Zona Leste,Rua,Rua Ulisses Cruz 285 Faculdade Zona Leste,Parque Belém,03077-000,Faculdade,-23.532604,-46.584038
+Faculdade_10.257.993,Privada,Faculdade Cetrus,Campus Principal,Rua,Avenida Jabaquara 474 - Até 0620 - Lado Par,Mirandópolis,04046-000,Faculdade,-23.608255,-46.638213
+Faculdade_10.258.009,Privada,Link School Of Business,Bravia Educação,Rua,Avenida Brigadeiro Luís Antônio 4980 - De 4100 Ao Fim - Lado Par,Jardins,01402-002,Faculdade,-21.55164,-47.702879
+Faculdade_10.264.498,Privada,Centro Universitário Ítalo-Brasileiro,Sede - Santo Amaro,Rua,Avenida João Dias 2046,Ponte Transamérica,04724-003,Faculdade,-23.643688,-46.720555
+Faculdade_10.264.501,Privada,Universidade Cruzeiro Do Sul,Campus Villa Lobos,Rua,"Avenida Imperatriz Leopoldina, 550",Ceasa,05305-000,Faculdade,-23.525441,-46.736543
+Faculdade_10.264.509,Privada,Faculdade Paulista De Serviço Social,Unidade Sede,Rua,Rua Lopes Chaves 273 Unidade Sede,Marechal Deodoro,01154-010,Faculdade,-23.529141,-46.658133
+Faculdade_10.264.510,Privada,Faculdade De Música Carlos Gomes,Sede,Rua,Rua Álvares Penteado 216 Sede,Parque Dom Pedro,01012-000,Faculdade,-23.546628,-46.634975
+Faculdade_10.264.511,Privada,Faculdade De São Paulo,Sede Nova,Rua,Rua Álvares Penteado 216 Sede Nova,Parque Dom Pedro,01012-000,Faculdade,-23.546628,-46.634975
+Faculdade_10.264.512,Privada,Universidade Cidade De São Paulo,Unicid - Campus Pinheiros,Rua,Rua Butantã 285,Pinheiros,05424-140,Faculdade,-23.570037,-46.697606
+Faculdade_10.264.514,Privada,Universidade Anhanguera De São Paulo,Itaquera,Rua,Shopping Metrô Itaquera S/N Itaquera,,08220-900,Faculdade,-23.540748,-46.471045
+Faculdade_10.264.569,Privada,Faculdade Integral Cantareira,Campus - São Paulo - Belenzinho,Rua,Rua Marcos Arruda 729,Catumbi,03020-000,Faculdade,-23.531896,-46.603846
+Faculdade_10.264.608,Privada,Instituto Superior De Educação De São Paulo,Campus Principal,Rua,Rua Cincinato Braga 388 Campus Principal,Bela Vista,01333-010,Faculdade,-23.567658,-46.646504
+Faculdade_10.264.622,Privada,Centro Universitário Unibta,Unidade Sede - Paulista,Rua,Av Paulista 2200,Trianon,01310-932,Faculdade,-23.557422,-46.660146
+Faculdade_10.264.623,Privada,Faculdade De Educação E Tecnologia Iracema,Faeti,Rua,Rua Floriano Peixoto 753,Parada De Taipas,02883-090,Faculdade,-23.346954,-46.756122
+Faculdade_10.385.776,Privada,Centro Universitário Estácio De São Paulo,Liberdade,Rua,Rua Da Glória 195		 Liberdade,,"[1510000, 1510001, 2169120]",Faculdade,-23.555046,-46.633729
+Faculdade_10.385.777,Privada,Instituto De Tecnologia E Liderança,Sede Butantã,Rua,Instituto de Pesquisas Tecnológicas 532,,[],Faculdade,53.554264,9.960551
+Faculdade_10.385.778,Privada,Faculdade Da Associação Médica Paulista,Campus Principal,Rua,"Av Brigadeiro Luiz Antonio, 278",,[],Faculdade,-23.553274,-46.638176
+Faculdade_10.385.908,Privada,Faculdade Campos Elíseos,Sede,Rua,Maria De Jesus Simões 167 Sede,Mandaqui,[2469010],Faculdade,-23.485828,-46.641456
+Faculdade_10.385.910,Privada,Faculdade Campos Elíseos,Fce,Rua,Maria de Jesus Simões 167,Mandaqui,[2469010],Faculdade,-23.485828,-46.641456
+Faculdade_10.385.912,Privada,Faculdade Ibra Da Grande São Paulo,Sede - Fagran,Rua,R João Martins 448,,"[2555140, 4235190, 2803070, 5540040, 8070330, 2535190, 4403330, 2255120]",Faculdade,-23.495433,-46.458121
+Faculdade_10.385.913,Privada,Faculdade Alvorada De Saúde,Nova Sede,Rua,Rua Atílio Piffer 687 Nova Sede,Casa Verde,[2516000],Faculdade,-23.508445,-46.660192
+Faculdade_10.385.914,Privada,Faculdade Ibra Da Grande São Paulo,Fav - São Paulo,Rua,R Barão de Tefé 247,Água Branca,[5003040],Faculdade,-23.528208,-46.675394
+Faculdade_10.385.915,Privada,Faculdade Evangélica De São Paulo,Unidade Sede,Rua,Av Celso Garcia 2210,Belém,"[3014000, 3015000, 3015970, 3015971, 3017970, 3063000, 3063900, 3064000, 3064100, 3064970]",Faculdade,-23.536863,-46.590618
+Faculdade_10.385.917,Privada,Faculdade Unida De São Paulo,Sede,Rua,Rua Serra De Botucatu 968 Sede,Tatuapé,"[3417000, 3317000, 3317001, 5352110]",Faculdade,-23.543032,-46.562476
+Faculdade_10.385.918,Privada,Faculdade De Educação Paulistana,Itaquera,Rua,R São Gonçalo do Piauí 65 Itaquera,Itaquera,"[8295295, 8295400]",Faculdade,-23.547767,-46.459989
+Faculdade_10.385.919,Privada,Faculdade Ipessp,Faculdade Instituto De Pesquisa E Educação Em Saúde De São Paulo - Fipessp,Rua,Rua Dona Antônia De Queirós 333 Faculdade Instituto De Pesquisa E Educação Em Saúde De São Paulo - Fipessp,Consolação,"[1307010, 1307011, 1307012, 1307013, 1307014]",Faculdade,,
+Faculdade_10.385.920,Privada,Faculdade Educamais,Sede Conde Do Pinhal,Rua,Rua Conde Do Pinhal 80 Sede Conde Do Pinhal,Praça João Mendes,"[1501060, 1501905]",Faculdade,-22.109489,-49.070391
+Faculdade_10.385.921,Privada,Faculdade Inova Mais De São Paulo,Sede Conde Do Pinhal,Rua,Rua Conde Do Pinhal 78 Sede Conde Do Pinhal,Praça João Mendes,"[1501060, 1501905]",Faculdade,-23.552139,-46.647198
+Faculdade_10.385.922,Privada,Centro Universitário Das Faculdades Metropolitanas Unidas,Fmu - Liberdade / Brigadeiro - Prédio 43 E 44,Rua,Av Brigadeiro Luís Antônio 917,Bexiga,"[1317000, 1317001, 1317002, 1317901, 1317902, 1317903, 1317904, 1317905, 1317906, 1317907, 1317909, 1317910, 1317911, 1318000, 1318001, 1318002, 1318900, 1318901, 1318902, 1318903, 1318904, 1318905, 1318906, 1318907, 1318908, 1318909, 1318910, 1318912, 1318970, 1318999, 1401000, 1401001, 1401002, 1401900, 1401901, 1401902, 1401903, 1401904, 1401970, 1401971, 1401999, 1402000, 1402001, 1402002, 1402900, 1402901, 1402971]",Faculdade,-23.557747,-46.640972
+Faculdade_10.385.923,Privada,Faculdade Paulista De Artes,Sede,Rua,Avenida Brigadeiro Luís Antônio 1200 Sede,Bexiga,"[1317000, 1317001, 1317002, 1317901, 1317902, 1317903, 1317904, 1317905, 1317906, 1317907, 1317909, 1317910, 1317911, 1318000, 1318001, 1318002, 1318900, 1318901, 1318902, 1318903, 1318904, 1318905, 1318906, 1318907, 1318908, 1318909, 1318910, 1318912, 1318970, 1318999, 1401000, 1401001, 1401002, 1401900, 1401901, 1401902, 1401903, 1401904, 1401970, 1401971, 1401999, 1402000, 1402001, 1402002, 1402900, 1402901, 1402971]",Faculdade,-23.559754,-46.642894
+Faculdade_10.385.924,Privada,Faculdade Interativa De São Paulo,Faatesp - Bela Vista,Rua,Av Paulista 302/306,Bela Vista,"[1310000, 1310100, 1310200, 1310300, 1310900, 1310902, 1310903, 1310904, 1310905, 1310907, 1310908, 1310909, 1310910, 1310911, 1310913, 1310914, 1310915, 1310916, 1310917, 1310918, 1310919, 1310920, 1310921, 1310922, 1310923, 1310924, 1310925, 1310926, 1310927, 1310928, 1310929, 1310930, 1310931, 1310932, 1310933, 1310934, 1310935, 1310936, 1310937, 1310940, 1310941, 1310942, 1310945, 1311000, 1311100, 1311200, 1311300, 1311901, 1311902, 1311903, 1311904, 1311905, 1311906, 1311907, 1311908, 1311909, 1311910, 1311911, 1311912, 1311913, 1311914, 1311915, 1311916, 1311917, 1311918, 1311919, 1311920, 1311921, 1311922, 1311923, 1311924, 1311925, 1311926, 1311927, 1311928, 1311929, 1311930, 1311931, 1311932, 1311933, 1311934, 1311935, 1311936, 1311937, 1311940, 1311941]",Faculdade,-23.56329,-46.654118
+Faculdade_10.385.925,Privada,Faculdade Evolução,Evolução,Rua,Rua Angá 938 Evolução,Vila Formosa,"[2844100, 3909120, 1247000, 4288040, 3360000, 4164010]",Faculdade,-23.569875,-46.540864
+Faculdade_10.385.926,Privada,Universidade Cruzeiro Do Sul,Polo Sp_Pinheiros,Rua,R Butantã 285,Pinheiros,"[5424000, 5424140, 5424905, 5424970, 5424999]",Faculdade,-23.570037,-46.697606
+Faculdade_10.385.927,Privada,Faculdade Paulista De Ciências Da Saúde,Faculdade Paulisra De Ciências Da Saúde,Rua,Av Brigadeiro Luís Antônio 3751,Parque Ibirapuera,"[1317000, 1317001, 1317002, 1317901, 1317902, 1317903, 1317904, 1317905, 1317906, 1317907, 1317909, 1317910, 1317911, 1318000, 1318001, 1318002, 1318900, 1318901, 1318902, 1318903, 1318904, 1318905, 1318906, 1318907, 1318908, 1318909, 1318910, 1318912, 1318970, 1318999, 1401000, 1401001, 1401002, 1401900, 1401901, 1401902, 1401903, 1401904, 1401970, 1401971, 1401999, 1402000, 1402001, 1402002, 1402900, 1402901, 1402971]",Faculdade,-23.57736,-46.658947
+Faculdade_10.385.928,Privada,Centro Universitário Belas Artes De São Paulo,Campus Paraíso,Rua,Rua Estela 64 Campus Paraíso,,"[4841000, 5415070, 2246060, 4011000, 4011001, 4011002, 4011902, 4011903, 4011904, 4011907, 4128040]",Faculdade,-21.018742,-48.77491
+Faculdade_10.385.930,Privada,Centro Universitário Belas Artes De São Paulo,Unidade Educacional Na Sede,Rua,R José Antonio Coelho 879,Vila Mariana,"[4011060, 4011061, 4011062, 4011900, 4011901, 4011906]",Faculdade,-23.581632,-46.64852
+Faculdade_10.385.931,Privada,Faculdade Cta,Sede,Rua,R Antônio Marcondes 285,,"[4883210, 4267020]",Faculdade,-23.458078,-46.427612
+Faculdade_10.385.932,Privada,Centro Universitário Belas Artes De São Paulo,Campus Shopping Cidade Jardim,Rua,Av Magalhães de Castro 12000,Real Parque,[5676900],Faculdade,-23.02823,-45.573358
+Faculdade_10.385.933,Privada,Faculdade Israelita De Ciências Da Saúde Albert Einstein,Centro De Ensino E Pesquisa Campos Cecília E Abram Sjazman,Rua,R Comendador Elias Jafet 755,Fazenda Morumbi,[5653000],Faculdade,-23.602026,-46.714825
+Faculdade_10.385.934,Privada,Trevisan Escola Superior De Negócios,Trevisan - Polo,Rua,Av das Nações Unidas 14261,Chácara Santo Antônio,"[4578000, 4578900, 4578901, 4578903, 4578906, 4578907, 4578908, 4578910, 4578911, 4533085, 4757025, 5307085, 4753100, 5477000, 5477900, 5477902, 5477903, 4696005, 5425070, 5425902, 5425903, 5425904, 5425905, 4730090, 4795000, 4795100, 4795900, 4795901, 4795902, 4795904, 4795905, 4795906, 4795907, 4795910, 4795911, 4795912, 4795913, 4795914, 4795915, 4795916, 4795917, 4795920, 4795921, 4795922, 4795923, 4795924, 4795925, 4795970, 4795999, 4583105, 4794000, 4794904, 4794905, 5310000]",Faculdade,-23.5247,-46.758439
+Faculdade_10.385.936,Privada,Faculdade União Paulistana,Faculdade União Paulistana,Rua,Rua Barão Do Rio Branco 864 Faculdade União Paulistana,Ponte Transamérica,"[4717970, 4753000, 4753001, 4753905]",Faculdade,-23.647849,-46.709989
+Faculdade_10.385.942,Privada,Instituto De Educação Superior E Inovação Invenio,Campus Principal,Rua,Rua José Vieira Martins 270,Mar Paulista,[4466025],Faculdade,-23.691743,-46.65683
+Faculdade_1.724.643,Privada,Universidade Paulista,Campus XI - Tatuapé,Rua,R Antonio Macedo 505,Parque São Jorge,12358-410,Faculdade,-23.948965,-46.365939
+Faculdade_1.725.075,Pública,Faculdade de Tecnologia do Ipiranga,Unidade Sede,Rua,R Frei João 59,Vila Nair,04280-130,Faculdade,-23.779579,-45.358564
+Faculdade_1.725.098,Privada,Fiam-faam - Centro Universitário,Fiam-faam - Vila Mariana - Unidade I,Rua,R Dona Julia 122,Vila Mariana,04117-020,Faculdade,-23.588146,-46.634493
+Faculdade_1.725.100,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Vila Mariana I,Rua,R D Julia 122,Vila Mariana,04117-020,Faculdade,-23.592615,-46.636636
+Faculdade_1.725.431,Privada,Centro Universitário Carlos Drummond de Andrade,Unidade Sede,Rua,R Prof Pedreira de Freitas 415,Tatuapé,03312-050,Faculdade,-23.550374,-46.557503
+Faculdade_1.725.510,Privada,Faculdade Legale,Unidade Sede,Rua,R da Consolação 65,Centro,01301-911,Faculdade,-23.54819,-46.641982
+Faculdade_1.726.027,Privada,Universidade Santo Amaro,Campus II,Rua,R Isabel Schimdt 349,Santo Amaro,04743-030,Faculdade,-23.651258,-46.702318
+Faculdade_1.726.032,Privada,Universidade Santo Amaro,Campus IIi,Rua,R da Matriz 204,Santo Amaro,04746-000,Faculdade,-23.655557,-46.708174
+Faculdade_1.726.059,Privada,Centro Universitário Salesiano de São Paulo,Unidade de Ensino de São Paulo - Campus Santa Teresinha,Rua,R Dom Henrique Mourão 201,Santa Terezinha,02405-030,Faculdade,-23.490062,-46.633275
+Faculdade_1.726.146,Privada,"Faculdade de Tecnologia em Hotelaria, Gastronomia e Turismo de São Paulo",Unidade Sede,Rua,"R das Palmeiras 117, 122 e 184",Santa Cecília,01226-010,Faculdade,-23.537881,-46.650511
+Faculdade_1.726.555,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Liberdade - Galvão Bueno,Rua,R Galvão Bueno 707,Liberdade,01506-000,Faculdade,-23.561748,-46.634067
+Faculdade_1.726.738,Privada,Centro Universitário Anhanguera de São Paulo,Campus Pirituba,Rua,Av Raimundo Pereira de Magalhães 3305,Pirituba,02938-000,Faculdade,-23.4968,-46.727871
+Faculdade_1.726.801,Privada,Faculdade de Tecnologia e Negócios Carlos Drummond de Andrade,Campus - São Paulo - Penha,Rua,Av Penha de França 35,Penha,03606-010,Faculdade,-23.525714,-46.549744
+Faculdade_1.727.252,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Morumbi,Rua,Av Morumbi 501,Morumbi,05607-000,Faculdade,-23.579611,-46.705441
+Faculdade_1.727.489,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Liberdade,Rua,R Taguá 150,Liberdade,01508-010,Faculdade,-23.560853,-46.636594
+Faculdade_1.728.134,Pública,Universidade Estadual Paulista Júlio de Mesquita Filho,Câmpus de São Paulo / Instituto de Artes,Rua,R Dom Luiz Lazagna 400,Ipiranga,04266-030,Faculdade,-23.594859,-46.602194
+Faculdade_1.728.146,Privada,Centro Universitário Estácio de São Paulo,Interlagos,Rua,Av Jangadeiro 111,Interlagos,04815-020,Faculdade,-23.419724,-46.428513
+Faculdade_1.729.012,Pública,Universidade de São Paulo,Unidade Sede,Rua,R da Reitoria 374,Butantã,05508-900,Faculdade,-23.558012,-46.726216
+Faculdade_1.729.522,Privada,Escola de Economia de São Paulo,Unidade Sede,Rua,R Itapeva 474,Bela Vista,01332-000,Faculdade,-23.560909,-46.650397
+Faculdade_1.729.524,Privada,Faculdade de São Paulo,Unidade Acadêmica,Rua,Rua Conselheiro Crispiniano 116/120,Centro,05794-330,Faculdade,-23.462587,-46.534328
+Faculdade_1.729.605,Privada,Faculdade de São Paulo,Faculdade de São Paulo,Rua,R Alvares Penteado 208/216,Centro,01012-001,Faculdade,-23.548481,-46.634578
+Faculdade_1.729.640,Privada,Fiam-faam - Centro Universitário,Unifiam-faam,Rua,R Fagundes 97,Liberdade,01508-030,Faculdade,-23.559072,-46.636441
+Faculdade_1.729.641,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Liberdade / Prédio 7,Rua,R Fagundes 97,Liberdade,01508-030,Faculdade,-23.559072,-46.636441
+Faculdade_1.729.659,Privada,Faculdades Integradas Campos Salles,Unidade Sede,Rua,R Nossa Senhora da Lapa 284,Lapa,05072-000,Faculdade,-23.521587,-46.704078
+Faculdade_1.729.663,Privada,Faculdades Integradas Rio Branco,Campus - São Paulo - Lapa,Rua,R Capitão José Inácio do Rosário 133,Lapa,05038-070,Faculdade,-23.5126,-46.701508
+Faculdade_1.731.852,Privada,Faculdade de Tecnologia Finaci,Unidade Sede,Rua,Praça Pedro Lessa 41,Centro,01034-000,Faculdade,-23.469317,-46.53086
+Faculdade_1.733.558,Privada,Escola de Administração de Empresas de São Paulo,Unidade - São Paulo - Bela Vista,Rua,Av 9 de Julho 2029,Bela Vista,01313-902,Faculdade,-23.55927,-46.653723
+Faculdade_1.733.593,Privada,Faculdades Oswaldo Cruz,Unidade Sede - Prédio II,Rua,R Brigadeiro Galvão 540,Barra Funda,01151-000,Faculdade,-23.532643,-46.655288
+Faculdade_1.734.123,Privada,Pontifícia Universidade Católica de São Paulo,São Paulo - Campus Consolação,Rua,R Marquês de Paranaguá 111,Consolação,01303-050,Faculdade,-23.549176,-46.649693
+Faculdade_1.734.132,Privada,Universidade Nove de Julho,Vila Maria,Rua,R Diamantina 302,Vila Maria,02117-010,Faculdade,-23.519203,-46.592873
+Faculdade_1.734.135,Privada,Instituto São Paulo de Estudos Superiores,Unidade Sede,Rua,R Dr Mário Vicente 1108,Ipiranga,04270-001,Faculdade,-23.593345,-46.613155
+Faculdade_1.734.140,Privada,Faculdade Paulista de Comunicação,São Paulo-cerqueira César,Rua,Av Paulista 2200,Cerqueira César,01310-300,Faculdade,-23.0349,-49.165198
+Faculdade_1.734.143,Privada,Faculdade Evangélica de São Paulo,Campus - São Paulo - Belenzinho,Rua,Av Celso Garcia 2210,Belenzinho,03014-000,Faculdade,-23.536863,-46.590618
+Faculdade_1.734.145,Privada,Faculdade de Teologia de São Paulo da Igreja Presbiteriana Independente do Brasil,São Paulo-bela Vista,Rua,R Genebra 180,Bela Vista,01316-010,Faculdade,-23.552558,-46.639979
+Faculdade_1.734.146,Privada,Faculdade de Tecnologia Oswaldo Cruz,Campus - São Paulo - Barra Funda,Rua,R Brigadeiro Galvão Prédio 540,Barra Funda,01151-000,Faculdade,-23.531151,-46.656597
+Faculdade_1.734.148,Privada,Faculdade de Tecnologia do Istituto Europeo di Design,Ied São Paulo,Rua,R Maranhão 617,Higienópolis,01240-001,Faculdade,-21.13588,-48.973282
+Faculdade_1.734.151,Privada,Faculdade Israelita de Ciências da Saúde Albert Einstein,Unidade - São Paulo - Butantã,Rua,Av Professor Francisco Morato 4293,Butantã,05521-200,Faculdade,-23.595673,-46.736929
+Faculdade_1.734.154,Privada,Centro Universitário Belas Artes de São Paulo,Campus Sede (unid. 1 e 2),Rua,R Dr Álvaro Alvim 76/90,Vila Mariana,04018-010,Faculdade,-23.589675,-46.640517
+Faculdade_1.734.162,Privada,Faculdade de Tecnologia Senai Anchieta,Campus - São Paulo - Vila Mariana,Rua,R Gandavo 550,Vila Mariana,04023-001,Faculdade,-23.591596,-46.645425
+Faculdade_1.734.211,Pública,Universidade Federal de São Paulo,Campus São Paulo - Rua Botucatu,Rua,R Botucatú 740,Vila Clementino,04023-900,Faculdade,-23.599262,-46.643092
+Faculdade_1.734.214,Privada,Universidade Brasil,Campus Sede - Itaquera,Rua,R Carolina Fonseca 584,Itaquera,08230-030,Faculdade,-23.528351,-46.45591
+Faculdade_1.734.215,Privada,Universidade Presbiteriana Mackenzie,Campus - São Paulo - Consolação,Rua,R da Consolação 896,Consolação,01302-907,Faculdade,-23.547828,-46.650412
+Faculdade_1.734.361,Privada,Faculdade Educamais,Unidade Sede,Rua,R Dr Luiz Carlos 1000,Penha,03505-000,Faculdade,-23.534673,-46.541919
+Faculdade_1.734.364,Privada,Centro Universitário Adventista de São Paulo,Unasp Campus São Paulo,Rua,Estrada de Itapecerica 5859,Jardim Iae,05858-001,Faculdade,-23.617089,-46.75755
+Faculdade_1.734.461,Privada,Universidade São Judas Tadeu,Unidade Butantã,Rua,Av Vital Brasil 1000,Butantã,05503-000,Faculdade,-23.568814,-46.713877
+Faculdade_1.734.525,Privada,Universidade Anhembi Morumbi,Campus Paulista,Rua,Av Paulista 2000,Bela Vista,01310-200,Faculdade,-23.55877,-46.658837
+Faculdade_1.734.568,Privada,Faculdade Zumbi dos Palmares,Sede,Rua,Av Santos Dumont 843,Ponte Pequena,01101-000,Faculdade,-23.129607,-46.572683
+Faculdade_1.734.581,Privada,Centro Universitário Estácio de São Paulo,Vila dos Remédios,Rua,Av dos Remédios 810,Vila dos Remédios,05107-001,Faculdade,-23.552139,-46.647198
+Faculdade_1.734.599,Pública,Faculdade de Teconologia da Zona Sul,Fatec Zona Sul,Rua,R Frederico Grotte 322,Jardim Vergueiro,05818-270,Faculdade,-23.662554,-46.729163
+Faculdade_1.734.600,Privada,Centro Universitário Carlos Drummond de Andrade,Unidade Alvorada,Rua,Praça Nossa Senhora das Vitórias 92,Vila Formosa,03356-030,Faculdade,-23.564475,-46.54923
+Faculdade_1.735.420,Privada,Faculdade de Tecnologia Carlos Drummond de Andrade,Campus - São Paulo - Tatuapé,Rua,R Professor Pedreira de Freitas 401/415,Tatuapé,03312-050,Faculdade,-23.549916,-46.554945
+Faculdade_1.735.422,Privada,Universidade Cruzeiro do Sul,Polo Sp_analia Franco,Rua,Av Regente Feijó 1295,Tatuapé,03342-000,Faculdade,-23.560849,-46.564625
+Faculdade_1.735.424,Privada,Fiam-faam - Centro Universitário,Fiam-faam - Morumbi - Reitoria (sede),Rua,Av Morumbi 501,Morumbi,05607-000,Faculdade,-23.579611,-46.705441
+Faculdade_1.735.426,Privada,Instituto Superior de Educação Vera Cruz,Unidade Sede,Rua,R Baumann 73,Vila Leopoldina,05318-000,Faculdade,-23.528336,-46.736605
+Faculdade_1.735.429,Privada,Faculdade Teológica de Ciências Humanas e Sociais Logos,Unidade Sede,Rua,R Padre Adelino 700,Belenzinho,03303-000,Faculdade,-23.544853,-46.587302
+Faculdade_1.735.430,Privada,Faculdade Teológica Batista de São Paulo,Unidade Sede,Rua,R João Ramalho 466,Perdizes,05008-001,Faculdade,-23.537068,-46.670862
+Faculdade_1.735.434,Privada,Faculdade Paulus de Tecnologia e Comunicação,Unidade Sede,Rua,R Major Maragliano 191,Vila Mariana,04017-030,Faculdade,-23.587719,-46.63805
+Faculdade_1.735.437,Privada,Faculdade Método de São Paulo,Faculdade Método de São Paulo - Famesp - Mirandópolis,Rua,Av Jabaquara 1314,Mirandópolis,04046-200,Faculdade,-23.615655,-46.639137
+Faculdade_1.735.441,Privada,Escola Superior de Engenharia e Gestão de São Paulo - Eseg,Campus - São Paulo - SP - Vila Mariana,Rua,R Vergueiro 1951,Vila Mariana,04101-000,Faculdade,-23.579325,-46.639126
+Faculdade_1.735.442,Privada,Faculdade Escola Paulista de Direito,Campus - São Paulo - Liberdade,Rua,Av Liberdade 956,Liberdade,01502-001,Faculdade,-23.560846,-46.638486
+Faculdade_1.735.458,Privada,Centro Universitário Álvares Penteado,Campus - São Paulo - Liberdade,Rua,Av da Liberdade 532,Liberdade,01502-001,Faculdade,-23.557246,-46.637213
+Faculdade_1.735.460,Privada,Faculdade de Informática e Administração Paulista,Unidade Sede,Rua,Av Lins de Vasconcelos 1264,Cambuci,01538-001,Faculdade,-23.574449,-46.62356
+Faculdade_1.735.464,Privada,Centro Universitário São Camilo,Campus - São Paulo - Ipiranga,Rua,Av Pompéia 888,Perdizes,04263-200,Faculdade,-23.531909,-46.68664
+Faculdade_1.735.465,Privada,Centro Universitário São Camilo,Campus Pompéia,Rua,R Raul Pompéia 144,Pompéia,05025-010,Faculdade,-23.567151,-46.779242
+Faculdade_1.735.467,Privada,Faculdade de Tecnologia Senai Mariano Ferraz,Unidade - São Paulo - Vila Leopoldina,Rua,R Jaguaré Mirim 71,Vila Leopoldina,05311-020,Faculdade,-23.526645,-46.735891
+Faculdade_1.735.475,Privada,Escola Superior de Artes Célia Helena,Unidade Sede,Rua,Av São Gabriel 462,Itaim Bibi,01435-000,Faculdade,-23.57917,-46.670572
+Faculdade_1.735.647,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Liberdade / Prédio 10,Rua,Av Liberdade 654,Liberdade,01502-001,Faculdade,-23.558551,-46.637278
+Faculdade_1.735.648,Privada,Universidade Anhembi Morumbi,Campus Vila Olimpia,Rua,R Casa do Ator,Vila Olímpia,04546-000,Faculdade,-20.738465,-48.913529
+Faculdade_1.735.649,Privada,Universidade Anhembi Morumbi,Campus Mooca,Rua,R Dr Almeida Lima 1124 e 1134,Brás,03164-000,Faculdade,-23.545026,-46.615145
+Faculdade_1.735.783,Privada,Pontifícia Universidade Católica de São Paulo,São Paulo - Campus Santana,Rua,R Vonluntários da Pátria 1653,Santana,02011-300,Faculdade,-23.505812,-46.626971
+Faculdade_1.735.784,Privada,Pontifícia Universidade Católica de São Paulo,São Paulo - Sede - Campus Monte Alegre,Rua,R Monte Alegre 984,Perdizes,05014-901,Faculdade,-23.537989,-46.671231
+Faculdade_1.735.860,Privada,Universidade Anhanguera de São Paulo,São Paulo (mr),Rua,Av Braz Leme 3029,Santana,02022-001,Faculdade,-23.503292,-46.630149
+Faculdade_1.735.863,Privada,Universidade Anhanguera de São Paulo,Sao Paulo (vm),Rua,R Afonso Celso 235,Vila Mariana,04119-901,Faculdade,-23.593683,-46.634773
+Faculdade_1.735.864,Privada,Universidade Nove de Julho,Santo Amaro,Rua,R Amador Bueno 389/491,Santo Amaro,04752-900,Faculdade,-23.652789,-46.712512
+Faculdade_1.735.985,Privada,Universidade Paulista,Campus VIIi - Paulista,Rua,Av Paulista 900,Bela Vista,01310-100,Faculdade,-23.565557,-46.651091
+Faculdade_1.735.986,Privada,Universidade Paulista,Campus XIi - Vergueiro,Rua,R Apeninos 267,Aclimação,01533-000,Faculdade,-23.446302,-46.412294
+Faculdade_1.735.987,Privada,Universidade Paulista,Campus Indianópolis,Rua,R Doutor Bacelar 1212,Mirandópolis,04026-002,Faculdade,-23.604736,-46.648599
+Faculdade_1.735.993,Privada,Insper Instituto de Ensino e Pesquisa,Unidade Sede,Rua,R Quatá 300,Vila Olímpia,04546-042,Faculdade,-20.738465,-48.913529
+Faculdade_1.736.151,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Santo Amaro,Rua,Av Santo Amaro 1239,Vila Nova Conceição,04505-002,Faculdade,-23.938662,-46.337011
+Faculdade_1.736.152,Pública,Universidade de São Paulo,"Escola de Artes, Ciências e Humanidades - Each",Rua,R Arlindo Bettio 1000,Vila Guaraciaba,03828-000,Faculdade,-23.482455,-46.498648
+Faculdade_1.736.153,Privada,Faculdade de Ciências Médicas da Santa Casa São Paulo,Campus - São Paulo - Vila Buarque,Rua,R Doutor Cesário Mota Júnior 61,Vila Buarque,01221-020,Faculdade,-23.542259,-46.648778
+Faculdade_1.736.155,Privada,Universidade Ibirapuera,Unidade Sede - Chácara Flora,Rua,Av Interlagos 1329,Jardim Marajoara,04661-100,Faculdade,-23.664957,-46.678214
+Faculdade_1.736.156,Privada,Universidade Paulista,Campus IX- Pinheiros,Rua,R PE Carvalho 566,Pinheiros,05427-020,Faculdade,-23.564899,-46.696865
+Faculdade_1.736.157,Privada,Universidade Paulista,Campus XIii - Paraíso,Rua,R Vergueiro 1211,Aclimação,01504-000,Faculdade,-23.572713,-46.639609
+Faculdade_1.736.158,Privada,Universidade Paulista,Campus X - Norte,Rua,R Amazonas da Silva 737,Vila Guilherme,02051-001,Faculdade,-23.512829,-46.609734
+Faculdade_1.736.161,Privada,Universidade Paulista,Cidade Universitária,Rua,Av Torres de Oliveira 330,Jaguaré,05347-020,Faculdade,-23.551135,-46.735639
+Faculdade_1.736.162,Privada,Universidade Paulista,Campus V - Chácara Santo Antônio,Rua,R Cancioneiro Popular 210,Santo Amaro,04710-000,Faculdade,-23.63024,-46.694825
+Faculdade_1.736.164,Privada,Universidade Paulista,Campus IIi - Anchieta,Rua,R Francisco Bautista 300,Jardim Santa Cruz,04182-020,Faculdade,-22.941983,-46.552503
+Faculdade_1.736.188,Privada,Universidade Anhembi Morumbi,Campus Morumbi,Rua,Av Roque Petroni Junior 630,Morumbi,04707-000,Faculdade,-23.622747,-46.69314
+Faculdade_1.736.190,Privada,Universidade Nove de Julho,Unidade Vergueiro Sede,Rua,R Vergueiro 235,Liberdade,01504-001,Faculdade,-23.564018,-46.639059
+Faculdade_1.736.191,Privada,Universidade Nove de Julho,Memorial,Rua,R Adolfo Pinto 109,Barra Funda,01156-050,Faculdade,-23.51957,-46.674173
+Faculdade_1.736.193,Privada,Centro Universitário Assunção,Vila Mariana,Rua,R Afonso Celso 671/711,Vila Mariana,04119-000,Faculdade,-23.599164,-46.634867
+Faculdade_1.736.195,Privada,Universidade de Mogi das Cruzes,Campus Villa Lobos-são Paulo,Rua,Av Imperatriz Leopoldina 550,Vila Leopoldina,05305-011,Faculdade,-23.525441,-46.736543
+Faculdade_1.736.196,Privada,Centro Universitário Estácio de São Paulo,Santo Amaro,Rua,R Promotor Gabriel Netuzzi Perez 108,Santo Amaro,04743-020,Faculdade,-23.652512,-46.704708
+Faculdade_1.736.200,Privada,Faculdade de Biblioteconomia e Ciência da Informação,Campus - São Paulo - Vila Buarque,Rua,Rua Dr. Cesário Mota Júnior 262,Vila Buarque,01221-020,Faculdade,-23.544166,-46.649126
+Faculdade_1.736.201,Privada,Centro Universitário Salesiano de São Paulo,Unidade de Ensino de São Paulo - Campus Pio XI,Rua,R Pio XI 1100,Alto da Lapa,05060-001,Faculdade,-23.532856,-46.713308
+Faculdade_1.736.208,Privada,Faculdade Flamingo,Campus Lapa,Rua,R George Smith 122,Lapa,05074-010,Faculdade,-23.518734,-46.704884
+Faculdade_1.736.210,Privada,Faculdade Santa Marcelina,Unidade Itaquera,Rua,R São João das Duas Barras 95,Itaquera,08270-080,Faculdade,-23.555152,-46.463703
+Faculdade_1.736.211,Privada,Centro Universitário das Américas,Rua Augusta,Rua,Rua Augusta 973,Consolação,01305-100,Faculdade,-23.553629,-46.6549
+Faculdade_1.736.213,Privada,"Faculdade de Comunicação e Design """"oswaldo Cruz""""",Campus - São Paulo - Barra Funda,Rua,R Conselheiro Brotero 475,Barra Funda,01154-001,Faculdade,-23.531243,-46.657261
+Faculdade_1.736.219,Privada,Faculdade de São Bento,Unidade Sede,Rua,Largo de São Bento S/N,Centro,01029-010,Faculdade,48.77353,9.17742
+Faculdade_1.736.220,Privada,Faculdade de Tecnologia Carlos Drummond de Andrade,Unidade Ponte Rasa,Rua,Av São Miguel 4335,Ponte Rasa,03741-000,Faculdade,-23.507706,-46.491561
+Faculdade_1.736.221,Privada,Centro Universitário Carlos Drummond de Andrade,João XXiii,Rua,R Penha de França 35,Penha,03606-010,Faculdade,43.723988,-1.053305
+Faculdade_1.736.224,Privada,Escola da Cidade - Faculdade de Arquitetura e Urbanismo,Escola da Cidade - Faculdade de Arquitetura e Urbanismo,Rua,R General Jardim 65/51,Vila Buarque,01223-011,Faculdade,-23.779579,-45.358564
+Faculdade_1.736.226,Pública,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",Ifsp - Campus São Paulo,Rua,R Pedro Vicente 625,Canindé,01109-010,Faculdade,-23.52515,-46.622893
+Faculdade_1.736.250,Privada,Universidade São Judas Tadeu,Unidade Sede,Rua,R Taquari 546,Mooca,03166-000,Faculdade,-23.552166,-46.597664
+Faculdade_1.736.335,Privada,Universidade Santo Amaro,Campus I,Rua,R Enéas de Siqueira Neto 340,Jardim das Imbuias,04829-300,Faculdade,-23.730663,-46.711936
+Faculdade_1.736.354,Privada,Universidade Cidade de São Paulo,Universidade Cidade de São Paulo - Unicid - Sede,Rua,R Cesário Galero 448/475,Tatuapé,03071-000,Faculdade,-23.534246,-46.560354
+Faculdade_1.736.434,Privada,Centro Universitário Sant¿anna,Campus - São Paulo - Santana,Rua,R Voluntários da Pátria 257,Santana,02011-000,Faculdade,-23.517259,-46.628689
+Faculdade_1.736.470,Privada,Pontifícia Universidade Católica de São Paulo,São Paulo - Campus Ipiranga,Rua,Av Nazaré 993,Ipiranga,04263-100,Faculdade,-23.593079,-46.608935
+Faculdade_1.736.483,Privada,Faculdade Santa Marcelina,Unidade Sede,Rua,R Doutor Emílio Ribas 89,Perdizes,05006-020,Faculdade,-23.536493,-46.66561
+Faculdade_1.736.488,Privada,Centro Universitário Estácio de São Paulo,Jabaquara,Rua,Av Jabaquara 1870,Saúde,04046-300,Faculdade,-23.620747,-46.640077
+Faculdade_1.736.498,Privada,Centro Universitário Paulistano,Centro Universitário Paulistano,Rua,R Madre Cabrini 38,Vila Mariana,04020-001,Faculdade,-23.590127,-46.637747
+Faculdade_1.736.507,Privada,Faculdade Mozarteum de São Paulo,Faculdade Mozarteum de São Paulo,Rua,R Nova dos Portugueses 365,Santa Terezinha,02462-080,Faculdade,-23.495004,-46.641042
+Faculdade_1.736.543,Pública,Faculdade de Tecnologia de São Paulo,Unidade Sede,Rua,Praça Coronel Fernando Prestes 30,Bom Retiro,01124-060,Faculdade,-23.530021,-46.632683
+Faculdade_1.736.742,Privada,Faculdade Cásper Líbero,Campus - São Paulo - Bela Vista,Rua,Av Paulista 900,Bela Vista,01310-940,Faculdade,-23.565557,-46.651091
+Faculdade_1.736.960,Privada,Centro Universitário Santa Rita,Campus - São Paulo - Jaçanã,Rua,Av Jaçanã 648,Jaçanã,02273-001,Faculdade,-23.466318,-46.586449
+Faculdade_1.736.980,Privada,Escola Superior de Propaganda e Marketing,Álvaro Alvim,Rua,R Doutor Álvaro Alvim 123,Vila Mariana,04018-010,Faculdade,-23.589968,-46.640127
+Faculdade_1.736.998,Privada,Centro Universitário da Fundação Educacional Inaciana PE Sabóia de Medeiros,Campus Liberdade,Rua,R Tamandare 688,Liberdade,01525-000,Faculdade,-23.56425,-46.636093
+Faculdade_1.737.004,Privada,Faculdade de Tecnologia Senai Theobaldo de Nigris,Campus - São Paulo - Mooca,Rua,R Bresser 2315,Mooca,03162-030,Faculdade,-23.548701,-46.600408
+Faculdade_1.737.020,Privada,Escola de Sociologia e Política de São Paulo,Unidade Sede,Rua,R General Jardim 522,Vila Buarque,01223-010,Faculdade,-23.544404,-46.649654
+Faculdade_1.737.023,Privada,Escola de Direito de São Paulo - Fgv Direito SP,Campus - São Paulo - Bela Vista,Rua,Av Nove de Julho 2029,Bela Vista,01313-902,Faculdade,-23.55927,-46.653723
+Faculdade_1.737.097,Privada,Centro Universitário Senac,Sao Paulo (sede),Rua,Av Engenheiro Eusébio Stevaux Nº 823,Jurubatuba,04696-000,Faculdade,-23.675135,-46.696837
+Faculdade_2.892.132,Privada,Faculdade de Tecnologia Saint Paul,Faculdade Saint Paul,Rua,R Pamplona 1616,Jardim Paulista,01424-000,Faculdade,-23.570134,-46.660407
+Faculdade_2.892.139,Privada,Faculdade Fipecafi,Sede,Rua,R Maestro Cardim 1170,Liberdade,01323-001,Faculdade,-23.571263,-46.642113
+Faculdade_2.892.140,Privada,Centro Superior de Estudos Jurídicos Carlos Drummond de Andrade,Sede,Rua,R Comendador Cantinho 394,Penha de França,03603-020,Faculdade,-23.525273,-46.550323
+Faculdade_2.892.143,Privada,Centro Universitário Anhanguera de São Paulo,Marte,Rua,Av Braz Leme 3029,Santana,02022-011,Faculdade,-23.503292,-46.630149
+Faculdade_2.892.147,Privada,Centro Universitário Anhanguera de São Paulo,Vila Mariana,Rua,R Afonso Celso 235,Vila Mariana,04119-901,Faculdade,-23.593683,-46.634773
+Faculdade_2.892.149,Privada,Centro Universitário Anhanguera de São Paulo,Campo Limpo,Rua,Estrada do Campo Limpo 3677,Campo Limpo,05777-001,Faculdade,-23.630138,-46.771791
+Faculdade_2.892.151,Privada,Faculdade Seqüencial,Unidade Sede,Rua,R Engenheiro Aluísio Marques 0,Parque Maria Helena,05854-110,Faculdade,-23.658237,-46.76396
+Faculdade_2.892.154,Privada,Faculdade de Tecnologia Senai Suiço-brasileira Paulo Ernesto Tolle,Campus Principal,Rua,R Bento Branco de Andrade Filho 379,Jardim Dom Bosco,[4757000],Faculdade,-23.648009,-46.721715
+Faculdade_2.892.159,Privada,Faculdade de Tecnologia Senai Conde José Vicente de Azevedo,Faculdade de Tecnologia Senai Conde José Vicente de Azevedo,Rua,R Moreira de Godói 226,Ipiranga,04266-060,Faculdade,-23.592705,-46.611414
+Faculdade_2.892.160,Privada,Faculdade de Tecnologia do Senai Horácio Augusto da Silveira,Faculdade de Tecnologia Senai Horácio Augusto da Silveira,Rua,R Tagipuru 242,Barra Funda,01156-000,Faculdade,-23.529386,-46.664674
+Faculdade_2.892.166,Privada,Centro Universitário Senac,Unidade Tiradentes,Rua,Av Tiradentes 822,Luz,01102-000,Faculdade,-23.465839,-46.534647
+Faculdade_2.892.168,Privada,Escola Dieese de Ciências do Trabalho,Sede,Rua,R Aurora 957,Santa Efigênia,01209-001,Faculdade,-23.552139,-46.647198
+Faculdade_2.892.170,Privada,Universidade Anhembi Morumbi,Campus Paulista II,Rua,R Treze de Maio 1266,Bela Vista,01327-000,Faculdade,-23.564438,-46.64579
+Faculdade_4.276.234,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Liberdade - Clínicas,Rua,R Taguá 407,Liberdade,01508-010,Faculdade,-23.562886,-46.636126
+Faculdade_4.276.264,Privada,Universidade Paulista,Campus VII - Marquês,Rua,Av Marquês de São Vicente 3001,Água Branca,05036-040,Faculdade,-23.967735,-46.38477
+Faculdade_4.276.279,Privada,Centro Universitário das Américas,Rua Augusta,Rua,R Augusta 1520,Consolação,01305-100,Faculdade,-23.556691,-46.658803
+Faculdade_4.278.222,Pública,Faculdade de Tecnologia do Tatuapé,Campus Principal,Rua,R Antônio de Barros 800,Tatuapé,03401-000,Faculdade,-23.537295,-46.558481
+Faculdade_4.278.223,Pública,Faculdade de Tecnologia de Itaquera,Campus Principal,Rua,Av Miguel Ignácio Curi S/N,Vila Carmosina,08295-005,Faculdade,-23.545906,-46.471879
+Faculdade_4.827.654,Privada,Centro Universitário Estácio de São Paulo,Conceição,Rua,Av Engenheiro Armando de Arruda Pereira 673,Jabaquara,04309-010,Faculdade,-23.633904,-46.642557
+Faculdade_4.827.656,Privada,Faculdade Cultura Inglesa,São Paulo-higienópolis,Rua,R Maranhão 416,Higienópolis,01240-000,Faculdade,-23.621007,-46.5673
+Faculdade_4.827.658,Privada,Universidade Anhanguera de São Paulo,São Paulo (bl),Rua,R Siqueira Bueno 929,Belenzinho,03172-010,Faculdade,-23.546639,-46.591436
+Faculdade_4.827.667,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Brigadeiro - Prédios 32/39/43/44,Rua,Av Brigadeiro Luís Antônio 1089/1095,Bela Vista,01317-001,Faculdade,-23.556092,-46.638168
+Faculdade_4.827.669,Privada,Centro Universitário Anhanguera de São Paulo,Belenzinho,Rua,R Siqueira Bueno 929,Belenzinho,03172-010,Faculdade,-23.546639,-46.591436
+Faculdade_4.827.678,Privada,Faculdade de Tecnologia Senai Roberto Simonsen,Campus Principal,Rua,R Monsenhor Andrade 298,Brás,03008-000,Faculdade,-23.542919,-46.621078
+Faculdade_4.829.731,Pública,Faculdade de Tecnologia Sebrae,Campus Principal,Rua,AL Nothmann 598,Campos Elíseos,01216-000,Faculdade,-23.532847,-46.64727
+Faculdade_5.368.510,Privada,Faculdade de Educação Paulistana,Unidade Sede,Rua,R Cordeiro de Silva 165 - 185,Parada de Taipas,[],Faculdade,49.02017,12.095035
+Faculdade_5.368.513,Privada,Faculdade de Informática e Administração Paulista,Unidade Vila Olímpia,Rua,R Olimpíadas 186,Vila Olímpia,[4551000],Faculdade,-20.738465,-48.913529
+Faculdade_5.368.529,Privada,Escola Brasileira de Medicina Chinesa,Campus Principal,Rua,R Visconde de Parnaíba 2727,Brás,"[3044000, 3044002, 3045000, 3045002, 3164300, 3164900, 3164901, 3164902]",Faculdade,-23.542292,-46.601338
+Faculdade_5.368.534,Privada,Faculdade Dourado,Campus Principal,Rua,R Nhatumani 556-568 568,Vila Ré,[3663000],Faculdade,-23.441015,-46.532412
+Faculdade_5.368.538,Privada,Faculdade de Informática e Administração Paulista,Unidade Paulista,Rua,Av Paulista 1106,Bela Vista,[1310914],Faculdade,-23.56406,-46.652361
+Faculdade_5.368.543,Privada,Faculdade de Tecnologia Senai Antoine Skaf,Faculdade de Tecnologia Senai Antoine Skaf,Rua,R Correia de Andrade 232,Brás,[3008020],Faculdade,-23.54267,-46.61967
+Faculdade_5.368.553,Privada,Faculdade de Educação Paulistana,Unidade Sede,Rua,R Cordeiro da Silva 185,Vila Nova Parada,[2883090],Faculdade,-23.436925,-46.716135
+Faculdade_5.368.557,Privada,Faculdade Sesi-sp de Educação,Campus Principal,Rua,R Carlos Weber 835,Vila Leopoldina,[5303902],Faculdade,-23.527678,-46.729366
+Faculdade_5.368.575,Privada,Centro Universitário das Faculdades Metropolitanas Unidas,Fmu - Vergueiro,Rua,R Vergueiro 3135,Vila Mariana,"[4273970, 1504000, 1504001, 1504970, 4101903, 4101904, 4101905, 4272000, 4272100, 4272200, 4272300, 4273000, 4273100, 4273200, 4101000, 4101100, 4101200, 4101300, 4101900, 4101901, 4101902, 4102000, 4102001, 4102002, 4102900]",Faculdade,-23.58781,-46.63274
+Faculdade_5.368.590,Privada,Universidade Nove de Julho,Vila Prudente,Rua,Av Professor Luiz Ignácio Anhaia Mello 1363,Vila Prudente,"[3154100, 3294100, 3987200, 3987210, 3154000, 3294200, 3295100, 3295000, 3155000, 3155100]",Faculdade,-23.583969,-46.581239
+Faculdade_5.368.592,Privada,Faculdade Impacta de Tecnologia,Campus Rudge,Rua,R do Bosque 60,Barra Funda,"[1136000, 1136001]",Faculdade,-23.52623,-46.649166
+Faculdade_5.368.599,Privada,Faculdade de Odontologia da Apcd,Campus Principal,Rua,R Voluntários da Pátria 547,Santana,"[2010000, 2010100, 2010200, 2010300, 2010400, 2010500, 2010600, 2010700, 2010800, 2010820, 2010901, 2010902, 2011000, 2011100, 2011200, 2011300, 2011400, 2011500, 2011600, 2011900, 2011970, 2401000, 2401100, 2401200, 2401300, 2401400, 2402000, 2402100, 2402200, 2402300, 2402400, 2402500, 2402600, 2402700, 2402900]",Faculdade,-23.515243,-46.627112
+Faculdade_5.368.604,Privada,Faculdade das Américas,Fam,Rua,R Borges de Figueiredo 510,Mooca,"[3110001, 3110010, 3110901]",Faculdade,-23.559337,-46.606992
+Faculdade_5.368.608,Privada,Escola Superior Nacional de Seguros de São Paulo,Unidade Sede,Rua,R Augusta 1600,Consolação,[1304901],Faculdade,-23.557151,-46.659643
+Faculdade_5.368.614,Privada,Universidade Santo Amaro,Campus IV,Rua,R Gabriel dos Santos 30,Santa Cecília,"[1231010, 1231011, 1231901, 1231902]",Faculdade,-23.532808,-46.658201
+Faculdade_5.370.893,Pública,Universidade de São Paulo,Faculdade de Ciências Farmacêuticas - Fcf,Rua,Av Professor Lineu Prestes 580,Butantã,[5508000],Faculdade,-23.56827,-46.731452
+Faculdade_5.370.894,Pública,Universidade de São Paulo,"Faculdade de Economia, Administração e Contabilidade - Fea",Rua,Av Professor Luciano Gualberto 908,Butantã,[5508010],Faculdade,-23.56031,-46.727803
+Faculdade_5.370.895,Pública,Universidade de São Paulo,Escola de Enfermagem,Rua,Av Doutor Enéas Carvalho de Aguiar 419,Cerqueira César,[5403906],Faculdade,-23.556502,-46.671385
+Faculdade_5.370.896,Pública,Universidade de São Paulo,Faculdade de Saúde Pública - Fsp,Rua,Av. Dr. Arnaldo 715,Pacaembu,[1246904],Faculdade,-23.553288,-46.673198
+Faculdade_5.370.897,Pública,Universidade de São Paulo,Faculdade de Medicina (fisioterapia/fonoaudiologia/terapia Ocupacional),Rua,R Cipotânea 51,Vila Butantã,[5360160],Faculdade,-23.562035,-46.744486
+Faculdade_5.370.898,Pública,Universidade de São Paulo,Escola Politécnica - Ep,Rua,Av Professor Luciano Gualberto 380,Butantã,[5508010],Faculdade,-23.555673,-46.730133
+Faculdade_5.370.899,Pública,Universidade de São Paulo,Instituto de Física - If,Rua,R do Matão 1371,Butantã,[5508090],Faculdade,-23.559614,-46.735378
+Faculdade_5.370.900,Pública,Universidade de São Paulo,Faculdade de Direito - Fd,Rua,Largo São Francisco 95,Sé,[1005010],Faculdade,-23.550133,-46.637091
+Faculdade_5.370.901,Pública,Universidade de São Paulo,Faculdade de Medicina da Universidade de São Paulo - Fm,Rua,Av Dr Arnaldo 455,Pacaembu,[1246903],Faculdade,-23.554671,-46.669796
+Faculdade_5.370.902,Pública,Universidade de São Paulo,Instituto de Matemática e Estatística - Ime,Rua,R do Matão 1010,Butantã,[5508090],Faculdade,-23.559384,-46.731921
+Faculdade_5.370.903,Pública,Universidade Municipal de São Caetano do Sul,Campus São Paulo,Rua,R Treze de Maio 669/671,Bela Vista,"[1327000, 1327001, 1327002, 1327900, 1327901, 1327902, 1327905, 1327970, 4849650, 2362075, 8346490]",Faculdade,-23.558856,-46.646398
+Faculdade_5.370.904,Pública,Universidade de São Paulo,Faculdade de Educação - Fe,Rua,Avenida da Universidade 308,Butantã,[5508040],Faculdade,-23.562191,-46.716193
+Faculdade_5.370.905,Pública,Universidade de São Paulo,Instituto de Relações Internacionais - Iri,Rua,Avenida Professor Dr. Lúcio Martins Rodrigues S/nº,Butantã,[],Faculdade,-23.558364,-46.721865
+Faculdade_5.370.906,Pública,Universidade de São Paulo,Instituto de Psicologia - Ip,Rua,Avenida Professor Mello de Morais 1721,Butantã,[5508030],Faculdade,-23.555817,-46.723033
+Faculdade_5.370.907,Pública,Universidade de São Paulo,Faculdade de Medicina Veterinária e Zootecnia - Fmvz,Rua,R Prof Dr Orlando Marques de Paiva 87,Cidade Universitária,[],Faculdade,-23.569837,-46.740225
+Faculdade_5.370.908,Pública,Universidade de São Paulo,Instituto de Química - Iq,Rua,Av Professor Lineu Prestes 748,Butantã,[5508000],Faculdade,-23.564548,-46.725894
+Faculdade_5.370.909,Pública,Universidade de São Paulo,Instituto de Geociências - Igc,Rua,R do Lago 562,Butantã,"[5508080, 4897440, 4280000]",Faculdade,-23.561761,-46.727675
+Faculdade_5.370.910,Pública,Universidade de São Paulo,Instituto de Ciências Biomédicas - Icb,Rua,Av Professor Lineu Prestes 2415,Butantã,[5508000],Faculdade,-23.567708,-46.732995
+Faculdade_5.370.911,Pública,Universidade de São Paulo,Instituto de Biociências - Ib,Rua,R do Matão 321,Butantã,[5508090],Faculdade,-23.561212,-46.730273
+Faculdade_5.370.912,Pública,Universidade de São Paulo,"Faculdade de Filosofia, Letras e Ciências Humanas (geografia/história) - Fflch",Rua,Av Professor Lineu Prestes 338,Butantã,[5508000],Faculdade,-23.562896,-46.723644
+Faculdade_5.370.913,Pública,Universidade de São Paulo,Escola de Educação Física e Esporte,Rua,Av Professor Mello de Morais 65,Butantã,[5508030],Faculdade,-23.56283,-46.713478
+Faculdade_5.370.914,Pública,Universidade de São Paulo,Escola de Comunicações e Artes - Eca,Rua,Av Professor Lúcio Martins Rodrigues 443,Butantã,[5508020],Faculdade,-23.557342,-46.721252
+Faculdade_5.370.915,Pública,Universidade de São Paulo,"Faculdade de Filosofia, Letras e Ciências Humanas - Fflch (letras)",Rua,Av Professor Luciano Gualberto 403,Butantã,[5508010],Faculdade,-23.55607,-46.730797
+Faculdade_5.370.916,Pública,Universidade de São Paulo,Faculdade de Odontologia - Fo,Rua,Av. Prof. Lineu Prestes 2227,Butantã,[],Faculdade,-23.567343,-46.738843
+Faculdade_5.370.917,Pública,Universidade de São Paulo,Instituto Oceanográfico - Io,Rua,Praça do Oceanográfico 191,Butantã,[5508120],Faculdade,-23.561142,-46.731984
+Faculdade_5.370.918,Pública,Universidade de São Paulo,Faculdade de Arquitetura e Urbanismo - Fau,Rua,R do Lago 876,Butantã,"[5508080, 4897440, 4280000]",Faculdade,-23.56017,-46.72989
+Faculdade_5.370.919,Pública,Universidade de São Paulo,"Instituto de Astronomia, Geofísica e Ciências Atmosféricas - Iag",Rua,R do Matão 1226,Butantã,[5508090],Faculdade,-23.559031,-46.733576
+Faculdade_5.370.920,Pública,Universidade de São Paulo,"Faculdade de Filosofia, Letras e Ciências Humanas (ciências Sociais/filosofia) - Fflch",Rua,Av Professor Luciano Gualberto 315,Cidade Universitária,[5508010],Faculdade,-23.562463,-46.725002
+Faculdade_7.043.649,Privada,Faculdade Esamc São Paulo - Esamc,Unidade São Paulo - Cjmj,Rua,"Av Adolfo Pinheiro, 893",Santo Amaro,"[4733000, 4733100, 4733200, 4733300, 4733400, 4733971, 4733999, 4734000, 4734001, 4734002, 4734003, 4734004, 4734900, 4734901, 4734902, 4734904]",Faculdade,-23.645214,-46.701424
+Faculdade_7.043.823,Pública,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",Ifsp - Campus Pirituba,Rua,"Av Mutinga, 951",Pirituba,"[5110000, 5110901, 5110902, 5110971, 5110903, 5110970, 5154000, 5110900]",Faculdade,-23.487128,-46.735942
+Faculdade_7.044.908,Privada,Centro Universitário Senac,Unidade Scipião,Rua,"R Scipião, 67",Lapa,[5047060],Faculdade,-23.521668,-46.699081
+Faculdade_7.506.443,Privada,Escola Superior de Propaganda e Marketing,Joaquim Távora,Rua,R Joaquim Távora 1240 Joaquim Távora,Vila Mariana,04015-013,Faculdade,-23.586985,-46.64447
+Faculdade_7.506.517,Privada,Faculdade Autônoma de Direito,Unidade Sede,Rua,R João Moura 313 Unidade Sede,Clínicas,05412-001,Faculdade,-23.56246,-46.676648
+Faculdade_7.506.521,Privada,Faculdade Imesp Monitor,Unidade Sede,Rua,Av Rangel Pestana 1105,Gasômetro,03001-000,Faculdade,-23.546873,-46.624239
+Faculdade_7.506.568,Privada,Faculdade de Administração da Fespsp,Campus - São Paulo - Vila Buarque,Rua,R General Jardim 522,Consolação,01223-010,Faculdade,-23.544404,-46.649654
+Faculdade_7.506.589,Pública,Faculdade de Tecnologia Zona Leste,Faculdade de Tecnologia da Zona Leste,Rua,Av Águia de Haia 2983 - Até 3301/3302,Águia De Haia,03694-000,Faculdade,-23.522322,-46.476046
+Faculdade_7.506.837,Privada,Faculdade de Música Souza Lima,Maria Figueiredo,Rua,R Maria Figueiredo 560 Maria Figueiredo,Paraíso,04002-003,Faculdade,-23.669645,-46.534459
+Faculdade_7.506.869,Privada,Faculdade Rudolf Steiner,Campus Principal,Rua,R Job Lane 900 - de 461/462 Ao Fim,Chácara Flora,04639-001,Faculdade,51.34083,12.375101
+Faculdade_7.506.870,Privada,Faculdade de Engenharia e Agrimensura de São Paulo,Faculdade de Engenharia e Agrimensura de São Paulo,Rua,R Araritaguaba 804 - Até 849/850,Vila Maria,02122-010,Faculdade,-23.512437,-46.586093
+Faculdade_7.506.887,Privada,Faculdade de Ciências da Saúde Igesp,Campus Principal,Rua,R da Consolação 1025,Consolação,01301-100,Faculdade,-23.548749,-46.651036
+Faculdade_7.506.908,Privada,Escola Superior de Empreendedorismo Sebrae-sp,Campus Principal,Rua,AL Nothmann 598 - Até 731/732,Santa Cecília/Campos Elísios,01216-000,Faculdade,-23.532847,-46.64727
+Faculdade_7.506.913,Privada,Faculdade Roberto Miranda,Avenida Paulista,Rua,Av Paulista 1009,Pamplona,01311-100,Faculdade,-23.542118,-46.331226
+Faculdade_7.506.954,Privada,Faculdade Phorte de Educação e Tecnologia,Campus Principal,Rua,R Treze de Maio 681 - Até 1149/1150,Bexiga,01327-000,Faculdade,-23.451736,-46.56781
+Faculdade_7.506.958,Privada,Fgv / Escola de Relações Internacionais,Campus Principal,Rua,"Av Nove de Julho, 2029",Masp,01313-902,Faculdade,-23.512314,-46.339148
+Faculdade_7.506.982,Privada,Centro Universitário Sumaré,Faculdade Sumaré - Sumaré,Rua,Av Doutor Arnaldo 1753 - de 601/602 Ao Fim,Sumaré,01255-000,Faculdade,-22.823121,-47.26868
+Faculdade_7.506.994,Privada,Faculdade de Tecnologia Bandeirantes,Unidade II Paulista,Rua,R Haddock Lobo 595 Unidade II Paulista,Trianon,01414-905,Faculdade,-23.558161,-46.66156
+Faculdade_7.507.175,Privada,Faculdade Anclivepa,Unidade Ulisses Cruz,Rua,R Ulisses Cruz 285 Unidade Ulisses Cruz,Parque Belém,03077-000,Faculdade,-23.532604,-46.584038
+Faculdade_7.507.176,Privada,Universidade São Judas Tadeu,Unidade Santo Amaro,Rua,Av Alexandre Dumas 2016,Chácara Santo Antônio,04717-915,Faculdade,-23.618596,-46.573278
+Faculdade_7.507.177,Privada,Universidade São Judas Tadeu,Paulista,Rua,Av Angélica 2563 2º Ao 14º Andares,Consolação,01227-200,Faculdade,-23.554362,-46.662395
+Faculdade_7.507.195,Privada,Faculdade Fia de Administração e Negócios,Unidade Educacional Nações Unidas (uen),Rua,Av das Nações Unidas 7221,Berrini - Vila Funchal,05425-902,Faculdade,-23.5247,-46.758439
+Faculdade_7.507.200,Privada,Faculdade Zona Leste,Campus Principal,Rua,Rua Platina 570,Tatuapé,03308-010,Faculdade,-23.540931,-46.569663
+Faculdade_7.507.227,Privada,Universidade São Judas Tadeu,Unidade Jabaquara,Rua,Av Jabaquara 1.870,Saúde,04046-300,Faculdade,-23.620747,-46.640077
+Faculdade_7.507.256,Privada,Universidade Cruzeiro do Sul,Polo Sp_paulista,Rua,Av Paulista 1.415 Campus Paulista,Pamplona,01311-925,Faculdade,-22.718233,-47.673995
+Faculdade_7.507.264,Privada,Centro Universitário Adventista de São Paulo,Unasp Unidade Vila Matilde,Rua,R Eugênia de Carvalho 1316,Vila Matilde,03516-000,Faculdade,-23.538703,-46.522503
+Faculdade_7.507.294,Privada,Faculdade do Comércio de São Paulo,Campus Principal,Rua,"R Boa Vista, 51",Cocaia,01014-911,Faculdade,-23.441457,-46.523388
+Faculdade_7.507.364,Privada,Faculdade Qualittas,Faculdade Qualittas,Rua,Av Dom Pedro I 480 Faculdade Qualittas,Vila Monumento,01552-000,Faculdade,-23.779579,-45.358564
+Faculdade_7.507.382,Privada,Faculdade Associada Brasil,Campus - São Paulo,Rua,R Nova dos Portugueses 365 Campus - São Paulo,Tietê,02462-080,Faculdade,-23.495004,-46.641042
+Faculdade_7.507.394,Privada,Faculdade Ibmec São Paulo,Campus Paulista,Rua,AL Santos 2356 Campus Paulista,Trianon,01418-200,Faculdade,-23.934554,-46.329242
+Faculdade_7.507.396,Privada,Faculdade do Educador,Faculdade do Educador,Rua,R Martiniano de Carvalho 170,Bexiga,01321-000,Faculdade,-23.560212,-46.64136
+Faculdade_7.507.406,Privada,Universidade São Judas Tadeu,Unidade Vila Leopoldina,Rua,Av Imperatriz Leopoldina 184,Ceasa,05305-000,Faculdade,-23.52552,-46.737019
+Faculdade_7.507.427,Privada,Faculdade de Tecnologia e Ciências,Ftc SP,Rua,Av Cruzeiro do Sul 400 Ftc SP,Canindé,01109-000,Faculdade,-21.895164,-47.623051
+Faculdade_7.507.443,Privada,Faculdade Álvares de Azevedo,Faculdade Álvares de Azevedo,Rua,Estrada do Campo Limpo 695,Parque Arariba,05777-000,Faculdade,-23.472259,-46.308702
+Faculdade_7.507.480,Privada,Universidade São Judas Tadeu,Unidade Santana,Rua,R Voluntários da Pátria 2624,Alfredo Pujol,02402-100,Faculdade,-23.512029,-46.35865
+Faculdade_7.507.487,Privada,Centro Universitário Carlos Drummond de Andrade,Ponte Rasa,Rua,Av São Miguel 4335,Ponte Rasa,03871-000,Faculdade,-23.507706,-46.491561
+Faculdade_7.507.568,Privada,Centro Universitário Uni-ban,Nova Sede Uni-ban,Rua,R Maria Cândida 1789 Nova Sede Uni-ban,Vila Isolina Mazzei,02071-013,Faculdade,-23.779579,-45.358564
+Faculdade_7.507.571,Privada,Universidade Brasil,Campus Vi - Mooca,Rua,R Ibipetuba 130,Alto Da Mooca,03127-180,Faculdade,-23.559821,-46.597112
+Faculdade_7.507.573,Privada,Faculdade Ceat,Sede,Rua,R Teixeira Mendes 40 Sede,Cambuci,01517-010,Faculdade,-23.561381,-46.624967
+Faculdade_7.507.609,Privada,Centro Universitário Anhanguera de São Paulo,Itaquera,Shopping Center,"Av José Pinheiro Borges, S/N",Itaquera,08220-900,Faculdade,-23.531539,-46.430047
+Faculdade_7.507.612,Privada,Universidade Cruzeiro do Sul,Campus Santo Amaro,Rua,Av das Nações Unidas 18605 Anexo Parte,Ponte Transamérica,04795-902,Faculdade,-23.656358,-46.718306
+Faculdade_7.507.639,Pública,Universidade Federal de São Paulo,Zona Leste,Rua,Av Jacu-pêssego 2.630,,08260-001,Faculdade,-23.579168,-46.444542
+Faculdade_7.507.650,Privada,Faculdade Alvorada,Faculdade Damásio,Rua,R da Glória 195 Faculdade Damásio,Praça João Mendes,01510-000,Faculdade,-23.454173,-46.551147
+Faculdade_7.507.657,Privada,Faculdade de Tecnologia Finaci,Unidade Liberdade,Rua,R São Joaquim 352/356 Unidade Liberdade,Liberdade/São Joaquim,01508-001,Faculdade,-23.566079,-46.632382

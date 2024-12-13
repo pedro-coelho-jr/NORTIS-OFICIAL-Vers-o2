@@ -1,0 +1,1020 @@
+{
+  "type": "FeatureCollection",
+  "name": "SAD69-96_SHP_estacaotremprojeto_point",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "TABOÃO MSP",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75362279273214,
+          -23.609921819693128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "HORTÊNSIAS",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76443528520673,
+          -23.602304769768832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "EIRAS GARCIA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76748973252326,
+          -23.59040489374367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "MONTE BELO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.771551519249066,
+          -23.5820602475816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM D'ABRIL",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77452876947704,
+          -23.574694088354292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SANAZAR",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78278846188415,
+          -23.561723100618185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "NOVA GRANADA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79303523178562,
+          -23.5531082576546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SANTO ANTÔNIO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.799565666027306,
+          -23.550748290880264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM ROBERTO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80667007283901,
+          -23.54382139508837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SÃO PEDRO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81310092014516,
+          -23.537823085916585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "INTEGRAÇÃO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82277275048327,
+          -23.532536060681107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "HOSPITAL GERAL",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.827800436614886,
+          -23.53493313714554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "BRASIL",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82986072031885,
+          -23.524579013171795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "CARAPICUÍBA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.83472173283811,
+          -23.517794706010637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PARQUE DA LAGOA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.83399546957274,
+          -23.512728609020808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "TAMBORÉ",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.83205450629657,
+          -23.503369655170445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "ARAGUAIA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8383157946472,
+          -23.50089398520566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "RIO NEGRO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84788174711486,
+          -23.498108013715104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "DONATELLO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75666562758126,
+          -23.626610797096916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "CAMPO LIMPO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ALPHAVILLE - CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75851679775456,
+          -23.648312162038216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "VARGINHA",
+        "etp_empres": "VIAMOBILIDADE",
+        "etp_linha": "ESMERALDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71150698511433,
+          -23.769808077713666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PIMENTAS",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40689908662594,
+          -23.43894905740546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SACRAMENTO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40958482163791,
+          -23.457149696435007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "HOSPITAL JARDIM HELENA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42616856901203,
+          -23.47600804213811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SÃO MIGUEL PAULISTA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44138847538296,
+          -23.489990579634988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "VILA JACUÍ",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.45671743864483,
+          -23.497626730439073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "IMPERADOR",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.455567001106736,
+          -23.51460741478397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "CIDADE A.E. CARVALHO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4667404949615,
+          -23.527297192007698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "CORINTHIANS-ITAQUERA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.470793202032034,
+          -23.5417148154889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "HOSP. SANTA MARCELINA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.463628356128815,
+          -23.553581313876233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PARQUE DO CARMO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.468873375589105,
+          -23.57002415077608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "RIO DAS PEDRAS/ARICANDUVA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49130163932855,
+          -23.58249055814979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM ITÁPOLIS",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.497991698968875,
+          -23.59709946054039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SAPOPEMBA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.500757529169164,
+          -23.61419570785463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PARQUE ORATÓRIO/NEVADA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.503143069017504,
+          -23.6261273959819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "HOSP. DA MULHER/CIDADE DOS MENINOS",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.502469502480544,
+          -23.63359528341457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM SOROCABA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.501917410591865,
+          -23.647361784030632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "ABC",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.507818712540775,
+          -23.658918205711604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "BONSUCESSO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.407798412991376,
+          -23.42335950267042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "MIGUEL COUTO",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50590676606253,
+          -23.676452241222993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "VILA LUZITA",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.505397053060115,
+          -23.699424893474134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM IRENE",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5107206219624,
+          -23.711725089398563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "MACEDO SOARES",
+        "etp_empres": "CPTM",
+        "etp_linha": "ONIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.506888414445086,
+          -23.690294806194785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "BOM RETIRO",
+        "etp_empres": "CPTM",
+        "etp_linha": "RUBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.647285378798365,
+          -23.527332116498204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PARI",
+        "etp_empres": "CPTM",
+        "etp_linha": "TURQUESA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62459908825667,
+          -23.537425563526334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PENHA",
+        "etp_empres": "CPTM",
+        "etp_linha": "CORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54188179318861,
+          -23.532864236687207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "LAJEADO",
+        "etp_empres": "CPTM",
+        "etp_linha": "CORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39972522127357,
+          -23.546535366384973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "UNIÃO DE VILA NOVA",
+        "etp_empres": "CPTM",
+        "etp_linha": "SAFIRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.464084442425396,
+          -23.485860891068132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "GABRIELA MISTRAL",
+        "etp_empres": "CPTM",
+        "etp_linha": "SAFIRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55030878545245,
+          -23.51899087804727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "BONSUCESSO",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.41285322686847,
+          -23.421600887927404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM PRESIDENTE DUTRA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.424441783955096,
+          -23.416635672353955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SÃO JOÃO",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.456454211517055,
+          -23.41597017086034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "JARDIM DOS EUCALIPTOS",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49221426690827,
+          -23.417422027674597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "CANGAÍBA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.535572746883524,
+          -23.502340043038682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "GABRIELA MISTRAL",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.550354549784224,
+          -23.518895538841477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "GUAIAÚNA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55302611932864,
+          -23.5327353401647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SERRA DE BOTUCATU",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55303896135318,
+          -23.540501452449927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "ITAPURA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56490310956967,
+          -23.548175844787238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "DEMÉTRIO RIBEIRO",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.578262438168636,
+          -23.550515176677568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "SAPUCAIA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.590282514129484,
+          -23.553047649098623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "PARQUE DA MOOCA",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60367558321514,
+          -23.566166628453733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "DOM PEDRO I",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6102753717455,
+          -23.57397008584376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "etp_situac": "PROJETADA",
+        "etp_nome": "BOM PASTOR",
+        "etp_empres": "CPTM",
+        "etp_linha": "JADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6072476745929,
+          -23.583039715315476
+        ]
+      }
+    }
+  ]
+}

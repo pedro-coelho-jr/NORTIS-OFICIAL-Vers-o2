@@ -1,0 +1,2426 @@
+{
+  "type": "FeatureCollection",
+  "name": "SAD69-96_SHP_estacaometroprojeto_point",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "VILA PRUDENTE",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "VPT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583334831042144,
+          -23.584261189332565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "JACU-PÊSSEGO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44351377167732,
+          -23.594184459987876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "BOA ESPERANÇA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "BEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.456213377305545,
+          -23.596392185961694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "IPIRANGA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "IPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59639804882928,
+          -23.582108103114102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "WASHINGTON LUIS",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "APT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.668172269186776,
+          -23.633777335119987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "BROOKLIN PAULISTA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "BKP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67316256375856,
+          -23.629019197270733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "JOSÉ DINIZ",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "JDZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.678499545156434,
+          -23.6214375394088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "CAMPO BELO",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68243360258476,
+          -23.61842019524447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "VILA CORDEIRO",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.688524043556356,
+          -23.614935720690262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "CHUCRI ZAIDAN",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.695504030798226,
+          -23.613275099189128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "MORUMBI",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "MRM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70148319275443,
+          -23.621386977136396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "AEROPORTO DE CONGONHAS",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66104759513727,
+          -23.626167716472004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "ORFANATO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ORF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575227361332104,
+          -23.577775786226578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "SANTA CLARA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.565697177791094,
+          -23.572971854281786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "ANÁLIA FRANCO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "NFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55967086161613,
+          -23.563273911570683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "VILA FORMOSA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "FSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55070586187065,
+          -23.561813384968787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "SANTA ISABEL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54496861613541,
+          -23.554192499751714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "GUILHERME GIORGI",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "MAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.541256711518464,
+          -23.547117199023216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "ARICANDUVA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54085894150189,
+          -23.539331117309036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "PENHA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54239363116096,
+          -23.532741536853933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "SÃO JOAQUIM",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "JQM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63883492140936,
+          -23.562167219011272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "BELA VISTA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "BVT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64435187830953,
+          -23.561251694113952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "14 BIS",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "BIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64879425856229,
+          -23.556156800462713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "HIGIENÓPOLIS-MACKENZIE",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "HIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6540563552834,
+          -23.550089331028314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "FAAP-PACAEMBU",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "AGC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66090279169399,
+          -23.546073687633754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "PUC-CARDOSO DE ALMEIDA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "PUC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.668451595806026,
+          -23.53809878246868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "PERDIZES",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "PZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.675442398448304,
+          -23.53191677947577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "SESC POMPEIA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "SPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.683101351951755,
+          -23.526770092382012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "ÁGUA BRANCA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "ABR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68744977493365,
+          -23.521112057137298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "SANTA MARINA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "MAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6910634489808,
+          -23.514019648379264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "FREGUESIA DO Ó",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "FGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.693398434187706,
+          -23.500952012948723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "JOÃO PAULO I",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "JPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.690953363193174,
+          -23.492614143423964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "ITABERABA-HOSPITAL VILA PENTEADO",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "ITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69313677117521,
+          -23.484939251608537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "VILA CARDOSO",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "VCS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69881899503209,
+          -23.475754093961562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LARANJA",
+        "emtp_nome": "BRASILÂNDIA",
+        "emtp_empre": "LINHAUNI",
+        "emtp_sigla": "BRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69785458302398,
+          -23.469926764058037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "CERRO CORÁ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "COR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70110007500839,
+          -23.54025222759193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "PENHA DE FRANÇA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54464400660736,
+          -23.522700170206797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "TIQUATIRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "TIQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.550528895599015,
+          -23.517323371281837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "PAULO FREIRE",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PAF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55664526979754,
+          -23.509855261411296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "PONTE GRANDE",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PGD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55049512199267,
+          -23.4979697696268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VERDE",
+        "emtp_nome": "DUTRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "DUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54578171837639,
+          -23.487176410869893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "AMARELA",
+        "emtp_nome": "VILA SÔNIA",
+        "emtp_empre": "VIAQUATRO",
+        "emtp_sigla": "VSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.734303099331626,
+          -23.59292965988866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "AMARELA",
+        "emtp_nome": "CHÁCARA DO JÓQUEI",
+        "emtp_empre": "VIAQUATRO",
+        "emtp_sigla": "COJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74332787243172,
+          -23.601054879275704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "AMARELA",
+        "emtp_nome": "TABOÃO DA SERRA",
+        "emtp_empre": "VIAQUATRO",
+        "emtp_sigla": "TAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76008319141365,
+          -23.607086246448844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LILAS",
+        "emtp_nome": "RICARDO JAFET",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "RIJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.619511638334124,
+          -23.586948360918502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LILAS",
+        "emtp_nome": "BOM PASTOR",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "PTR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60724799461358,
+          -23.583040191144217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LILAS",
+        "emtp_nome": "COMENDADOR SANT'ANNA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77335209944589,
+          -23.67103643452397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "LILAS",
+        "emtp_nome": "JARDIM ÂNGELA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "ANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77457494276823,
+          -23.690223101357134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "JARDIM COLONIAL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46853894641086,
+          -23.598508163168628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "JARDIM MARILU",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42362538043623,
+          -23.593761630693994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "JARDIM PEDRA BRANCA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JPB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.41478353494929,
+          -23.58204109217104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "CIDADE TIRADENTES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.409030422079574,
+          -23.58241538395018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "PRATA",
+        "emtp_nome": "HOSPITAL CIDADE TIRADENTES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "HCT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40175014825956,
+          -23.598512752271446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "OSCAR FREIRE",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "FRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66947782091729,
+          -23.55981949317107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "PARAÍSO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64070096614464,
+          -23.57367476652432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "PAES DE BARROS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59411504434145,
+          -23.56400133872138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "VILA BERTIOGA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "BET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58540749057761,
+          -23.55940539244658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "REGENTE FEIJÓ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "REG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5702900968368,
+          -23.55767013611691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "ABEL FERREIRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ABE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.548718543590105,
+          -23.569836311210814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "RENATA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "REN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53978524660018,
+          -23.570633650003032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "CIPRIANO RODRIGUES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527641468730984,
+          -23.575801450383516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "VILA ANTONIETA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51766488858876,
+          -23.575359659927518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "RIO DAS PEDRAS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "RIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50879685491494,
+          -23.564695743155667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "JARDIM BRASÍLIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49325395783539,
+          -23.55244962752803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "NOVE DE JULHO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "NDJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66130627370468,
+          -23.567119489081705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "JARDIM PAULISTA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JPT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65438355227541,
+          -23.573677663562485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "ACLIMAÇÃO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ACL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63022228042153,
+          -23.57172631094972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "LINS DE VASCONCELOS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "LIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62065792879732,
+          -23.567527465057715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "INDEPENDÊNCIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "IND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61196430688777,
+          -23.568298443815763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "SÃO CARLOS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "COS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60510321747779,
+          -23.567855736047214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "ÁLVARO RAMOS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ALV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57795930382412,
+          -23.556364056221195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "SANTA MARCELINA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SMN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.465056476043955,
+          -23.552684446094837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "COLONIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "COL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.445092515406415,
+          -23.558316173023638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "FAZENDA DO CARMO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "FZC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.415452438372974,
+          -23.56665908953831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "VIOLETA",
+        "emtp_nome": "CIDADE TIRADENTES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40791374502029,
+          -23.58338523110191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "JABAQUARA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "JAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64037757608385,
+          -23.64716639992829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "HOSPITAL SABOIA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "HSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64435516248415,
+          -23.65303485147321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "CIDADE LEONOR",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "CLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.651402834617464,
+          -23.649776528861285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "VILA BABILÔNIA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "BAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65698353010917,
+          -23.643314028789046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "VILA PAULISTA",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "VPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66177870888149,
+          -23.637810412889348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "PANAMBY",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "PNB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71400027055528,
+          -23.62641886506435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "PARAISÓPOLIS",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "PSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722606383710264,
+          -23.619101927880674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "AMÉRICO MAURANO",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "AMR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720470906508375,
+          -23.611874107099226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "ESTÁDIO MORUMBI",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "BEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71971280598694,
+          -23.596451180835732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "OURO",
+        "emtp_nome": "SÃO PAULO-MORUMBI",
+        "emtp_empre": "VIAMOBILIDADE",
+        "emtp_sigla": "MBM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72342260974686,
+          -23.586336495113994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "CURUÇÁ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58670942353633,
+          -23.51457878054558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "CATUMBI",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60358699094722,
+          -23.529806463536527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "SÃO BENTO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "BTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6352946305691,
+          -23.543199772562478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "VILA AUGUSTA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "AUG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.534909593491726,
+          -23.476895474352023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "JARDIM JAPÃO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JJP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575097980645,
+          -23.50183250338868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "VILA MARIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "MAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59303353809174,
+          -23.52246755969191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "DUTRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "DUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.545771847006364,
+          -23.487311600633955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "PARI",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.624267648218535,
+          -23.539141643085838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "SILVA TELES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "STL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61181965595144,
+          -23.532994959914088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "BOSQUE MAIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "BSQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.526055889051584,
+          -23.461923859467326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "GUARULHOS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GCT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52888923485115,
+          -23.46987839853755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "JARDIM BRASIL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JBR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57347332253936,
+          -23.489657799282444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "ITAPEGICA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.554449267698125,
+          -23.48963721183786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "JARDIM JULIETA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56379950351554,
+          -23.485707898106327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "CELESTE",
+        "emtp_nome": "ANHANGABAÚ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GBU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.639131521459575,
+          -23.54925382898194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "LAPA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "LAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70030054854986,
+          -23.517455346924336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "VILA ROMANA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ROM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702236308056044,
+          -23.527090516348768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "CERRO CORÁ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "COR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.701000246075445,
+          -23.54030546190536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "GIRASSOL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6901270246991,
+          -23.55302389443131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "TEODORO SAMPAIO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "TEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.684864123423935,
+          -23.560485623316364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "FRADIQUE COUTINHO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "FRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68275951661341,
+          -23.566748205155275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "TABAPUÃ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "TUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.682773285316635,
+          -23.583968425997362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "JESUÍNO CARDOSO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.680256582786605,
+          -23.592529064836746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "HÉLIO PELLEGRINO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "HPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67284074620806,
+          -23.596872448959463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "MOEMA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "MOE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66279407894974,
+          -23.603070841038953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "RUBEM BERTA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "RUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65451527554264,
+          -23.609712484921598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "INDIANÓPOLIS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "IND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64799775012962,
+          -23.616597024882456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "SAÚDE",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.640025488907206,
+          -23.61857780077496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "ABRAÃO DE MORAIS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "AMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.627236395435695,
+          -23.62336305357422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "CURSINO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "CSN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61572895461713,
+          -23.632320317445267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "ARLINDO VIEIRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "AVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60644852753318,
+          -23.641260499576315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "LIVIERO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "LIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59682411935298,
+          -23.646751426638914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "TABOÃO-PAULICEIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "TAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59540580396956,
+          -23.655895574006472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "RUDGE RAMOS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "RDG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.570860530843916,
+          -23.653608765035596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "AFONSINA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "AFS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5617198011063,
+          -23.65242793787739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "PRÍNCIPE DE GALES",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54897294493717,
+          -23.66066909307664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "PORTUGAL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "PTG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53268747986285,
+          -23.65958508578312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "ROSA",
+        "emtp_nome": "SANTO ANDRÉ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "AND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.529149785496465,
+          -23.651244550552306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "MONTE BELO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "MBL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77345375405447,
+          -23.581861046236554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "JARDIM BOA VISTA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "JBV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.787548681952536,
+          -23.58411011232084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "VICTOR CIVITA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "VIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80044201334208,
+          -23.581956650990602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "SANTA MARIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.811889201172754,
+          -23.585047195126133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "GRANJA VIANA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "GVN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.831553541111894,
+          -23.589667513240357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "MESOPOTÂMIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "MES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.844846675567105,
+          -23.598341761195755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "ESTRADA DO EMBU",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "EMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.856928259491156,
+          -23.60050572797517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "PARQUE ALEXANDRA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.87686174345751,
+          -23.595652740636528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "SABIÁ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8991922572404,
+          -23.599942599951607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "SANTO ANTÔNIO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "ANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.91121393872309,
+          -23.602462396891795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "COTIA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "COT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.92090032077572,
+          -23.60432217784833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "JARDIM ESMERALDA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75961225217318,
+          -23.571437204934647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "RIO PEQUENO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "RIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74653192057263,
+          -23.562880029498157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "UNIVERSIDADE DE SÃO PAULO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72575119458216,
+          -23.560498596809772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "VITAL BRASIL",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "VIB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70903833806805,
+          -23.57053576983958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "FARIA LIMA",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "FAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69472413219841,
+          -23.56659797527824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "TEODORO SAMPAIO",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "TEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68601635726259,
+          -23.560009439647995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "SUMARÉ",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "SUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67706792404633,
+          -23.551026409209168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emtp_situa": "PROJETADA",
+        "emtp_linha": "MARROM",
+        "emtp_nome": "HEBRAICA-REBOUÇAS",
+        "emtp_empre": "METRO",
+        "emtp_sigla": "HEB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6993099828197,
+          -23.57173757686595
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+{
+  "type": "FeatureCollection",
+  "name": "SAD69-96_SHP_estacaometro_point",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SÉ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.632634733362856,
+          -23.550512344970777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "CORINTHIANS-ITAQUERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.470625682903766,
+          -23.54181675329871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "ARTUR ALVIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48413781625269,
+          -23.539799938874364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "PATRIARCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50092954630922,
+          -23.53069438786089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "GUILHERMINA-ESPERANÇA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51609586550162,
+          -23.52877461241444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA MATILDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53055297518104,
+          -23.531389087552494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "PENHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54189647447373,
+          -23.532993038484797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "CARRÃO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56370255651946,
+          -23.53736280860217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "TATUAPÉ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575831565892614,
+          -23.539951693381724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "BELÉM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58965472109169,
+          -23.542534426553264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "BRESSER-MOOCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.607086843062746,
+          -23.54598821973153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "BRÁS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.615455688064344,
+          -23.547396282295807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "PEDRO II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62545603794589,
+          -23.549227415064866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "SÉ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63268117324461,
+          -23.550433307147852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "ANHANGABAÚ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63843213523854,
+          -23.547459548076425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "REPÚBLICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64269559340604,
+          -23.543405863377018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTA CECÍLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64842603997531,
+          -23.539150073184466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "MARECHAL DEODORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65557308106885,
+          -23.533030335658086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERMELHA",
+        "emt_empres": "METRO",
+        "emt_nome": "PALMEIRAS-BARRA FUNDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66691913196691,
+          -23.525459818571093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA MADALENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6904009452018,
+          -23.545902821430232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTUÁRIO NOSSA SENHORA DE FÁTIMA-SUMARÉ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.677084640852385,
+          -23.550528315163813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "CLÍNICAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67030840699337,
+          -23.553623113512447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "CONSOLAÇÃO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6607385964722,
+          -23.556739940614577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "TRIANON-MASP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.653962352887206,
+          -23.56267329106949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "BRIGADEIRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64690027244,
+          -23.568391894124403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "PARAÍSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64060210157876,
+          -23.575279928536013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "ANA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63817390274432,
+          -23.58086684665557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "CHÁCARA KLABIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63003289225332,
+          -23.59214355094298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTOS-IMIGRANTES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.620246722958946,
+          -23.595449320333625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "ALTO DO IPIRANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61191673132109,
+          -23.601706182538187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "SACOMÃ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60271881116245,
+          -23.60092647348641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "TAMANDUATEÍ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.589121394370416,
+          -23.592450080356894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "VERDE",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA PRUDENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.581453128286256,
+          -23.583837556294743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA MARIANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.634197349446836,
+          -23.58861927728745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "TUCURUVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60269762729578,
+          -23.479492612217477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "PARADA INGLESA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60836791568736,
+          -23.486544809500533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "AYRTON SENNA-JARDIM SÃO PAULO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61665646782611,
+          -23.491928683754484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.624319688899895,
+          -23.502081039145867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "CARANDIRU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62450938437239,
+          -23.508787700592936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "PORTUGUESA-TIETÊ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.624708079250794,
+          -23.51564339080641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "ARMÊNIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6288865321601,
+          -23.525012125184134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "TIRADENTES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63171825076229,
+          -23.530170133718855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "LUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63321689680977,
+          -23.53641429246614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SÃO BENTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63371330803515,
+          -23.543596099411985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "JAPÃO-LIBERDADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.635280337550675,
+          -23.55448828017117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SÃO JOAQUIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.638243088924376,
+          -23.561422938550788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "VERGUEIRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6394832544903,
+          -23.56842651905451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "PARAÍSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.640320224092385,
+          -23.57523604435039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "ANA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63799858455071,
+          -23.58076885511483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA MARIANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.634197349446836,
+          -23.58861927728745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTA CRUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63623453894688,
+          -23.598341067776413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "PRAÇA DA ÁRVORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.637430048291634,
+          -23.610153479191354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SAÚDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63878360952152,
+          -23.618120571152716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "SÃO JUDAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.640357851727316,
+          -23.625263115918536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "CONCEIÇÃO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64087837420149,
+          -23.63488934582344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AZUL",
+        "emt_empres": "METRO",
+        "emt_nome": "JABAQUARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64053705878608,
+          -23.64599472610937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "ORATÓRIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56144702356511,
+          -23.58168915076103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA PRUDENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583334831042144,
+          -23.584261189332583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "SÃO LUCAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.543916586325885,
+          -23.58880607649485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA TOLSTÓI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52664245150977,
+          -23.600431917149045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA UNIÃO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51566037707948,
+          -23.602381171752974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "CAMILO HADDAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5372404213964,
+          -23.59492437227171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "CAPÃO REDONDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76755727024693,
+          -23.658811062833013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "CAMPO LIMPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75850590029044,
+          -23.648896209487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "VILA DAS BELEZAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7452818020148,
+          -23.639918016598635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "GIOVANNI GRONCHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.733641647192535,
+          -23.643476505086245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTO AMARO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72047975672339,
+          -23.65526188729346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "LARGO TREZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7090808166638,
+          -23.653974838249063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "ADOLFO PINHEIRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70342924062653,
+          -23.649164311412395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "ALTO DA BOA VISTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69860134921409,
+          -23.641012604538535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "BORBA GATO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69256098790521,
+          -23.632872919004853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "BROOKLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.687574330749875,
+          -23.626764935512373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "EUCALIPTOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.668537389221186,
+          -23.6096567964706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "MOEMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66153295138778,
+          -23.6028406273082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "HOSPITAL SÃO PAULO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64490614854463,
+          -23.597671575448672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "SANTA CRUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.636723776061864,
+          -23.597987094542614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "CHÁCARA KLABIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63003289225332,
+          -23.59214355094298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "AACD-SERVIDOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.651346136359074,
+          -23.59714772193995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "LUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.634038412485964,
+          -23.535666734839886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "REPÚBLICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6425717520841,
+          -23.544094138970408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "PAULISTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.661732915527054,
+          -23.554587852951272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "FARIA LIMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69353392764871,
+          -23.566670249301914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "PINHEIROS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70124146301619,
+          -23.56669551463832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "BUTANTÃ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.707785471688474,
+          -23.571504946970343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "FRADIQUE COUTINHO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68371105332064,
+          -23.565680631835477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "HIGIENÓPOLIS-MACKENZIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65180781970177,
+          -23.548463503819754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "OSCAR FREIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67162993392821,
+          -23.560030162476142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "AMARELA",
+        "emt_empres": "VIAQUATRO",
+        "emt_nome": "SÃO PAULO-MORUMBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7233758088851,
+          -23.585900966795677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "LILAS",
+        "emt_empres": "METRO",
+        "emt_nome": "CAMPO BELO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68186480712554,
+          -23.618485667110185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "SÃO MATEUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47622991038221,
+          -23.611598768874817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "FAZENDA DA JUTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48701948592205,
+          -23.61119951239307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "SAPOPEMBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50097468604353,
+          -23.614264268623167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "emt_situac": "OPERANDO",
+        "emt_linha": "PRATA",
+        "emt_empres": "METRO",
+        "emt_nome": "JARDIM PLANALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50659991434945,
+          -23.606902064668855
+        ]
+      }
+    }
+  ]
+}
