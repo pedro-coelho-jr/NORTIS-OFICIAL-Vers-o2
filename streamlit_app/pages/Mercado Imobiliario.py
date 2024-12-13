@@ -50,7 +50,7 @@ with st.sidebar:
     st.title("Página de Análise de Mercado Imobiliário")
     st.subheader("Clique em um ponto para ver os detalhes")
     # Slider
-    distancia = st.slider("Distância em metros", min_value=100, max_value=4000, value=1000, step=100)
+    distancia = st.slider("Distância em metros", min_value=100, max_value=5000, value=3000, step=100)
     # Campo de entrada para o endereço
     endereco = st.text_input("Digite o endereço:")
     # Escolha do tipo de mapa
