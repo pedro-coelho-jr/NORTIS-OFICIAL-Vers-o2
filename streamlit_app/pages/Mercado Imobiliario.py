@@ -2,6 +2,8 @@
 import streamlit as st
 import pandas as pd
 import time
+from memory_profiler import profile
+import gc
 
 # internal imports
 from Search.Search_Archives import encontrar_arquivo
@@ -19,12 +21,18 @@ MAPBOX_TOKEN = "pk.eyJ1IjoicHJvamV0b2RhZG9zIiwiYSI6ImNtMXdiNjVobTBpa2Eya3BsMnR5O
 SAO_PAULO_COORDINATES = (-46.63389, -23.55028)
 
 
+@profile
 def get_cached_coordinates(endereco, token, default_coords):
-    return get_coordinates(endereco, token, default_coords)
+    coords = get_coordinates(endereco, token, default_coords)
+    gc.collect()  # Forçar coleta de lixo
+    return coords
 
+@profile
 def get_cached_RGI_data(coordenadas, distancia):
     rgis = get_RGI_close_to_coordinates(coordenadas, distancia)
-    return get_all_info_RGI(rgis)
+    data = get_all_info_RGI(rgis)
+    gc.collect()  # Forçar coleta de lixo
+    return data
 
 # Adicionar carregamento dos dados de mobilidade
 xlsx_directory = encontrar_diretorio('mobilidade_ponto')
@@ -198,3 +206,8 @@ with col2:
             # Mostrar os cards restantes
             for rgi in ordered_rgis[5:]:
                 processar_dataframe(display_table[display_table["RGI"] == rgi])
+
+        # Limpar variáveis grandes que não são mais necessárias
+        if 'display_table' in locals():
+            del display_table
+        gc.collect()
