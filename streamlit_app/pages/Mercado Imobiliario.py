@@ -19,11 +19,9 @@ MAPBOX_TOKEN = "pk.eyJ1IjoicHJvamV0b2RhZG9zIiwiYSI6ImNtMXdiNjVobTBpa2Eya3BsMnR5O
 SAO_PAULO_COORDINATES = (-46.63389, -23.55028)
 
 
-@st.cache_data(ttl=3600)  # cache por 1 hora
 def get_cached_coordinates(endereco, token, default_coords):
     return get_coordinates(endereco, token, default_coords)
 
-@st.cache_data(ttl=24*3600)  # cache por 24 horas
 def get_cached_RGI_data(coordenadas, distancia):
     rgis = get_RGI_close_to_coordinates(coordenadas, distancia)
     return get_all_info_RGI(rgis)

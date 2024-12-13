@@ -17,23 +17,23 @@ def get_coordinates():
 
 def get_RGI_close_to_coordinates(coordinates: tuple[float, float], radius: float):
     coordinates_df = get_coordinates()
-    # Calcula a distância em metros usando a fórmula de Haversine
+    # Seleciona apenas as colunas necessárias
+    coordinates_df = coordinates_df[["Latitude", "Longitude", "RGI"]]
+    
     lat, lon = coordinates
-    lat1 = coordinates_df["Latitude"].values * np.pi / 180
-    lat2 = lat * np.pi / 180
-    delta_lat = lat1 - lat2
-    delta_lon = (coordinates_df["Longitude"].values - lon) * np.pi / 180
+    # Converte apenas uma vez para radianos
+    lat2 = np.radians(lat)
+    lat1 = np.radians(coordinates_df["Latitude"].values)
+    delta_lon = np.radians(coordinates_df["Longitude"].values - lon)
     
-    # Raio da Terra em metros
     R = 6371000
-    
-    # Fórmula de Haversine
-    a = np.sin(delta_lat/2)**2 + np.cos(lat2) * np.cos(lat1) * np.sin(delta_lon/2)**2
+
+    a = np.sin((lat1 - lat2)/2)**2 + \
+        np.cos(lat2) * np.cos(lat1) * np.sin(delta_lon/2)**2
     distances = 2 * R * np.arcsin(np.sqrt(a))
     
-    # Filtra pontos dentro do raio
-    nearby_coordinates = coordinates_df[distances <= radius].copy()
-    return nearby_coordinates["RGI"].tolist()
+    # Usa boolean indexing direto
+    return coordinates_df.loc[distances <= radius, "RGI"].tolist()
 
 def get_all_info_RGI(rgis: list[int]):
     table = get_data()
