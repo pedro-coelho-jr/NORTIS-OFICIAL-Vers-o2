@@ -1,9 +1,7 @@
 import plotly.graph_objects as go
 import numpy as np
 
-MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoicHJvamV0b2RhZG9zIiwiYSI6ImNtMXdiOTEydDA1czEyaW41MDYwamIwdGQifQ.CntGc8JTYWf6b9tveFDAVQ"
-
-def plot_mobility(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLORS, COLOR_DICT_MOBILITY):
+def plot_mobility_scattermapbox(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLORS, COLOR_DICT_MOBILITY):
     """
     Adiciona camadas de mobilidade ao mapa Plotly
     
@@ -19,7 +17,6 @@ def plot_mobility(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLO
         fig: Figura Plotly atualizada com as camadas de mobilidade
     """
 
-    tipos_pontuais = []
     if mobility_selected:
         for tipo in mobility_selected:
             df_mobility = mobilidade.get(tipo)
@@ -44,7 +41,7 @@ def plot_mobility(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLO
                                     full_lats.extend(lats)
                                     full_lons.extend(lons)
 
-                            fig.add_trace(go.Scattermap(
+                            fig.add_trace(go.Scattermapbox(
                                 lat=full_lats,
                                 lon=full_lons,
                                 mode='lines',
@@ -68,7 +65,7 @@ def plot_mobility(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLO
                                 full_lats.extend(lats)
                                 full_lons.extend(lons)
 
-                        fig.add_trace(go.Scattermap(
+                        fig.add_trace(go.Scattermapbox(
                             lat=full_lats,
                             lon=full_lons,
                             mode='lines',
@@ -79,44 +76,30 @@ def plot_mobility(fig, mobility_selected, mobilidade, LINE_MOBILITIES, LINE_COLO
                             opacity=0.3
                         ))
                 else:
-                    tipos_pontuais.append(tipo)
+                    point_size = 8	
+                    if tipo == 'Estacao de Metro':
+                        point_size = 32
+                    elif tipo == 'Estacao de Trem':
+                        point_size = 32
 
-    markers = {
-        'Terminal de onibus': 'aerialway',
-        'Estacao de Trem': 'rail',
-        'Ponto de onibus': 'bus',
-        'Estacao de Metro': 'rail-metro',
-    }
-    marker_size = {
-        'Estacao de Metro': 10,
-        'Estacao de Trem': 10,
-        'Ponto de onibus': 2,
-        'Terminal de onibus': 10,
-    }
-
-    for tipo in tipos_pontuais:
-        df_mobility = mobilidade.get(tipo)
-        if df_mobility is not None and not df_mobility.empty:
-            fig.add_trace(go.Scattermap(
-                lat=df_mobility['Latitude'],
-                lon=df_mobility['Longitude'],
-                mode = "markers",
-                marker={'size': marker_size[tipo], 'symbol': markers[tipo]},
-                name=tipo,
-                text=tipo,
-                textposition = "bottom right",
-                hoverinfo='text',
-                opacity=1.0,
-                cluster=dict(
-                    enabled=False,
-                    maxzoom=24
-                )
-            ))    
-
-    fig.update_layout(
-        autosize=True,
-        hovermode='closest',
-    )
-
+                    elif tipo == 'Ponto de onibus':
+                        point_size = 5
+                    
+                    fig.add_trace(go.Scattermapbox(
+                        lat=df_mobility['Latitude'],
+                        lon=df_mobility['Longitude'],
+                        mode='markers',
+                        marker=dict(size=point_size, color=COLOR_DICT_MOBILITY.get(tipo, 'blue'), opacity=0.8),
+                        name=tipo,
+                        cluster={"enabled": False},
+                        text=tipo,
+                        hoverinfo='text',
+                        customdata=np.column_stack((
+                            np.repeat("mobilidade", len(df_mobility)),
+                            np.repeat(tipo, len(df_mobility))
+                        )),
+                        selected=dict(marker=dict(opacity=0.9)),
+                        unselected=dict(marker=dict(opacity=0.9)),
+                    ))
     
     return fig

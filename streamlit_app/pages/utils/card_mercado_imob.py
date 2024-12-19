@@ -39,15 +39,13 @@ def criar_card(
     st.markdown(
         f"""
             <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; margin-bottom: 5px; background-color: #f9f9f9; font-family: Arial, sans-serif; font-size: 0.9em;">
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                    <h3 style="margin: 0; color: #333; font-size: 1.1em; margin-bottom: 0px;"><span title="Empreendimento">🏢</span> {empreendimento} - {incorporadora}</h3>
+                <div style="display: flex; justify-content: space-between; align-items: center; overflow: hidden;">
+                    <h3 title="{empreendimento} - {incorporadora}" style="margin: 0; color: #333; font-size: 1.1em; margin-bottom: 0px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;"><span title="Empreendimento">🏢</span> {empreendimento} - {incorporadora}</h3>
                 </div>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 1em;">
-                    <p style="margin: 0; color: #555; font-size: 0.85em;"><span title="Endereço">📍</span> {endereco}</p>
+                <div style="display: grid; gap: 5px; font-size: 1em; margin-top: 5px;">
+                    <p title="{endereco}" style="margin: 0; color: #555; font-size: 1em; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;"><span title="Endereço">📍</span> {endereco}</p>
                     <p style="margin: 0; color: #555; font-size: 1em;"><span title="Data de Lançamento">📅</span> {lancamento}</p>
-                </div>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 1em; margin-top: 5px;">
-                    <p style="margin: 0; color: #555; font-size: 1em;"><span title="Preço por m²">💵</span> {preco_m2}</p>
+                    <p style="margin: 0; color: #555; font-size: 1em;"><span title="Preço por m²" style="font-size: 1em;">💵</span> {preco_m2}</p>
                     <p style="margin: 0; color: #555; font-size: 1em;"><span title="Total Lançado">📈</span> Total Lançado: {total_lancado}</p>
                     <p style="margin: 0; color: #555; font-size: 1em;"><span title="Total Vendido">📉</span> Total Vendido: {total_vendido}</p>
                     <p style="margin: 0; color: #555; font-size: 1em;"><span title="Total Estoque">📦</span> Total Estoque: {total_estoque}</p>
@@ -92,7 +90,7 @@ def processar_dataframe(df):
     # Calcular o range de preço por m²
     preco_m2_min = df['(VUV)Preço m2 privativo atualizado CUB'].min()
     preco_m2_max = df['(VUV)Preço m2 privativo atualizado CUB'].max()
-    preco_m2_range = f"R$ {preco_m2_min:,.2f} - R$ {preco_m2_max:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+    preco_m2_range = f"R$ {preco_m2_min:,.2f} - {preco_m2_max:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
 
     # Calcular o range de ticket
     ticket_min = df['(VMU)Preço de venda da unidade atualizado CUB'].min()

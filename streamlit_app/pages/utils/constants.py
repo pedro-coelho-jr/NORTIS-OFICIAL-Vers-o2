@@ -47,7 +47,7 @@ COLOR_DICT_ESTABELECIMENTOS = {
     'Petshop': 'deepskyblue',
     'Restaurante': 'orange',
     'Shopping Center': 'magenta',
-    'Feira Livre': 'blue',
+    'Feira Livre': 'SpringGreen',
     "Farmacia": "olive",
     "Hortifruti": "gray",
 }
@@ -65,6 +65,16 @@ COLOR_DICT_MOBILITY = {
     'Linha metro': 'deeppink',
     'Linha trem projeto': 'slategray',
     'Linha trem': 'limegreen',
+}
+
+DASHBOARD_COLORS = {
+    'Vendidas': '#2ecc71',      # Verde
+    'Estoque': '#e74c3c',       # Vermelho
+    'VSO': '#3498db',           # Azul
+    'Ticket_Medio': '#1f77b4',  # Azul escuro (usado no card)
+    'Grafico_Linha': '#2980b9', # Azul para gráficos de linha
+    'Grafico_Barra': '#27ae60', # Verde para gráficos de barra
+    'Histograma': '#8e44ad'     # Roxo para histogramas
 }
 
 # Dicionários de cores para as linhas de metrô e projeto de metro

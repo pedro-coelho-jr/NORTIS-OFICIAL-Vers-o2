@@ -136,7 +136,7 @@ def exibir_score(score):
             background-color: #1f77b4; /* Cor de fundo */
             color: white;             /* Cor do texto */
             border-radius: 10px;      /* Bordas arredondadas */
-            padding: 30px 80px;       /* Espaçamento interno */
+            padding: 30px 40px;       /* Espaçamento interno */
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra */
             font-size: 24px;          /* Tamanho da fonte */
             text-align: center;       /* Centralização do texto */
@@ -144,14 +144,15 @@ def exibir_score(score):
         </style>
         """,
         unsafe_allow_html=True)
+    formatted_score = f"{score:.2f}"
+    
     st.markdown(
             f"""
             <div class="metric-container">
                 <div class="custom-metric">
                     <strong>Pontuação</strong><br>
-                    {score}
+                    {formatted_score}
                 </div>
             </div>
             """,
-            unsafe_allow_html=True,
-        )
+            unsafe_allow_html=True)

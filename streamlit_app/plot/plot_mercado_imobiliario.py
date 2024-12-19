@@ -1,11 +1,8 @@
-import plotly.express as px
+import plotly.graph_objects as go
 import plotly.colors as mcolors
 
 # Constants
 MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoicHJvamV0b2RhZG9zIiwiYSI6ImNtMXdiOTEydDA1czEyaW41MDYwamIwdGQifQ.CntGc8JTYWf6b9tveFDAVQ"
-
-# Set the Mapbox access token globally
-px.set_mapbox_access_token(MAPBOX_ACCESS_TOKEN)
 
 # Functions
 def plot_mercado_imobiliario(df, width=400, height=1200, center=(-23.55028, -46.63389), mapbox_style="carto-positron", color_var=None, hover_data=None, dot_size=10, dot_color='blue'):
@@ -28,6 +25,9 @@ def plot_mercado_imobiliario(df, width=400, height=1200, center=(-23.55028, -46.
         mapbox_style = "mapbox://styles/mapbox/satellite-streets-v12"
     if mapbox_style == "satellite":
         mapbox_style = "mapbox://styles/mapbox/satellite-v9"
+    if mapbox_style == "open-street-map":
+        mapbox_style = "mapbox://styles/mapbox/streets-v12"
+    
 
 
     # Personalizar o texto de hover
@@ -38,34 +38,62 @@ def plot_mercado_imobiliario(df, width=400, height=1200, center=(-23.55028, -46.
         "<b>Soma Estoque:</b> %{customdata[4]}<extra></extra>"
     )
 
-    # Plot the data
-    fig = px.scatter_mapbox(df,
-                           lat='Latitude',
-                           lon='Longitude',
-                           color=color_var,
-                           mapbox_style=mapbox_style,
-                           zoom=13,
-                           center={"lat": center[0], "lon": center[1]},
-                           hover_data=hover_data,
-                           width=width,
-                           height=height,
-                           color_discrete_sequence=dot_color,
-                           labels={"color": "empreendimento"}
-                           )
-    # Update marker size and hover template
-    fig.update_traces(marker=dict(size=dot_size), hovertemplate=hover_template)
+    # Criar figura usando go em vez de px
+    fig = go.Figure()
 
-    # Update layout
-    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    # Criar mapeamento de cores se color_var for especificado
+    if color_var:
+        # Obter valores únicos da coluna
+        unique_values = sorted(df[color_var].unique())
+        # Criar um dicionário mapeando cada valor para uma cor
+        color_map = dict(zip(unique_values, mcolors.qualitative.Set2))
+        
+        # Criar um trace separado para cada valor único
+        for value in unique_values:
+            mask = df[color_var] == value
+            fig.add_trace(go.Scattermap(
+                lat=df.loc[mask, 'Latitude'],
+                lon=df.loc[mask, 'Longitude'],
+                mode='markers',
+                marker=dict(
+                    size=dot_size,
+                    color=color_map[value]
+                ),
+                name=str(value),  # Adiciona o nome para a legenda
+                customdata=df[mask][hover_data].values if hover_data else None,
+                hovertemplate=hover_template
+            ))
+    else:
+        # Caso não tenha color_var, adiciona um único trace
+        fig.add_trace(go.Scattermap(
+            lat=df['Latitude'],
+            lon=df['Longitude'],
+            mode='markers',
+            marker=dict(
+                size=dot_size,
+                color=dot_color
+            ),
+            customdata=df[hover_data].values if hover_data else None,
+            hovertemplate=hover_template
+        ))
 
-    # Posicionar a legenda sobre o gráfico
+    # Configurar o layout
     fig.update_layout(
+        mapbox=dict(
+            accesstoken=MAPBOX_ACCESS_TOKEN,
+            style=mapbox_style,
+            center=dict(lat=center[0], lon=center[1]),
+            zoom=13
+        ),
+        width=width,
+        height=height,
+        margin={"r":0,"t":0,"l":0,"b":0},
         legend=dict(
             yanchor="top",
             y=0.99,
             xanchor="left",
             x=0.01,
-            bgcolor="rgba(30, 30, 50, 0.8)"  # fundo branco semi-transparente
+            bgcolor="rgba(30, 30, 50, 0.8)"
         )
     )
 
